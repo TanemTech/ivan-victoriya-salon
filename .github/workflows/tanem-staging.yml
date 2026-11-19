@@ -1,0 +1,26 @@
+name: TANEM staging quality checks
+on:
+  push:
+    branches: [tanem-staging]
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Resolve approved baseline
+        run: |
+          if ! git cat-file -e '79ea1c63864627b634528c6c6f39c997226f85c4^{commit}' 2>/dev/null; then
+            git fetch --no-tags --depth=1 https://github.com/ichAEY/Shablon-only-for-salons.git refs/heads/baseline/services-approved-v1-2026-09-28
+          fi
+      - name: Validate customer data and template
+        run: |
+          node tests/validate-site-data.cjs --production
+          node tests/check-factory-contract.cjs
+          node tests/check-template-regression.cjs
