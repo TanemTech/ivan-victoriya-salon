@@ -1,0 +1,47 @@
+[
+  {
+    "file": "master-alena-hair-stylist.webp",
+    "name": "Alena",
+    "role": "Hair Stylist"
+  },
+  {
+    "file": "master-irina-hair-stylist.webp",
+    "name": "Irina",
+    "role": "Hair Stylist"
+  },
+  {
+    "file": "master-kristina-hair-stylist.webp",
+    "name": "Kristina",
+    "role": "Hair Stylist"
+  },
+  {
+    "file": "master-elena-hair-stylist.webp",
+    "name": "Elena",
+    "role": "Hair Stylist"
+  },
+  {
+    "file": "master-olesya-nail-master.webp",
+    "name": "Olesya",
+    "role": "Nail Master"
+  },
+  {
+    "file": "master-natalya-nail-master.webp",
+    "name": "Natalya",
+    "role": "Nail Master"
+  },
+  {
+    "file": "master-katerina-cosmetologist-permanent-makeup-master.webp",
+    "name": "Katerina",
+    "role": "Cosmetologist, Permanent Makeup Master"
+  },
+  {
+    "file": "master-valentina-cosmetic-esthetician.webp",
+    "name": "Valentina",
+    "role": "Cosmetic Esthetician"
+  },
+  {
+    "file": "logo.webp",
+    "name": "Logo",
+    "role": "Victory Salon Logo"
+  }
+]
