@@ -119,685 +119,655 @@
     "about": "profile.webp",
     "portfolio": [
       {
-        "src": "gallery-01.webp",
-        "alt": {
-          "ru": "Фото салона «Виктория»",
-          "en": "Victoria salon gallery photo",
-          "hy": ""
-        }
-      },
-      {
-        "src": "gallery-02.webp",
-        "alt": {
-          "ru": "Фото салона «Виктория»",
-          "en": "Victoria salon gallery photo",
-          "hy": ""
-        }
-      },
-      {
-        "src": "gallery-03.webp",
-        "alt": {
-          "ru": "Фото салона «Виктория»",
-          "en": "Victoria salon gallery photo",
-          "hy": ""
-        }
-      },
-      {
-        "src": "gallery-04.webp",
-        "alt": {
-          "ru": "Фото салона «Виктория»",
-          "en": "Victoria salon gallery photo",
-          "hy": ""
-        }
-      },
-      {
-        "src": "gallery-05.webp",
-        "alt": {
-          "ru": "Фото салона «Виктория»",
-          "en": "Victoria salon gallery photo",
-          "hy": ""
-        }
-      },
-      {
         "src": "gallery-06.webp",
         "alt": {
-          "ru": "Фото салона «Виктория»",
-          "en": "Victoria salon gallery photo",
-          "hy": ""
-        }
-      },
-      {
-        "src": "gallery-07.webp",
-        "alt": {
-          "ru": "Фото салона «Виктория»",
-          "en": "Victoria salon gallery photo",
-          "hy": ""
-        }
-      },
-      {
-        "src": "gallery-08.webp",
-        "alt": {
-          "ru": "Фото салона «Виктория»",
-          "en": "Victoria salon gallery photo",
-          "hy": ""
-        }
-      },
-      {
-        "src": "gallery-09.webp",
-        "alt": {
-          "ru": "Фото салона «Виктория»",
-          "en": "Victoria salon gallery photo",
+          "ru": "Работа парикмахера салона «Виктория»",
+          "en": "Haircut, color or styling result",
           "hy": ""
         }
       },
       {
         "src": "gallery-10.webp",
         "alt": {
-          "ru": "Фото салона «Виктория»",
-          "en": "Victoria salon gallery photo",
+          "ru": "Работа мастера маникюра или педикюра",
+          "en": "Manicure or pedicure result",
           "hy": ""
         }
       },
       {
-        "src": "gallery-11.webp",
+        "src": "gallery-14.webp",
         "alt": {
-          "ru": "Фото салона «Виктория»",
-          "en": "Victoria salon gallery photo",
+          "ru": "Уход за бровями или ресницами",
+          "en": "Brow or lash treatment",
           "hy": ""
         }
       },
       {
-        "src": "gallery-12.webp",
+        "src": "gallery-15.webp",
         "alt": {
-          "ru": "Фото салона «Виктория»",
-          "en": "Victoria salon gallery photo",
+          "ru": "Работа парикмахера салона «Виктория»",
+          "en": "Haircut, color or styling result",
+          "hy": ""
+        }
+      },
+      {
+        "src": "gallery-21.webp",
+        "alt": {
+          "ru": "Работа мастера маникюра или педикюра",
+          "en": "Manicure or pedicure result",
+          "hy": ""
+        }
+      },
+      {
+        "src": "gallery-44.webp",
+        "alt": {
+          "ru": "Работа мастера маникюра или педикюра",
+          "en": "Manicure or pedicure result",
+          "hy": ""
+        }
+      },
+      {
+        "src": "gallery-55.webp",
+        "alt": {
+          "ru": "Работа парикмахера салона «Виктория»",
+          "en": "Haircut, color or styling result",
           "hy": ""
         }
       }
     ],
     "gallery": {
-      "Все": [
+      "Салон": [
         {
           "src": "gallery-01.webp",
           "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-02.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
+            "ru": "Интерьер или вход в салон «Виктория»",
+            "en": "Victoria salon interior or entrance",
             "hy": ""
           }
         },
         {
           "src": "gallery-03.webp",
           "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
+            "ru": "Интерьер или вход в салон «Виктория»",
+            "en": "Victoria salon interior or entrance",
             "hy": ""
           }
         },
         {
           "src": "gallery-04.webp",
           "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
+            "ru": "Интерьер или вход в салон «Виктория»",
+            "en": "Victoria salon interior or entrance",
             "hy": ""
           }
         },
         {
           "src": "gallery-05.webp",
           "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-06.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-07.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-08.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-09.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-10.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-11.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-12.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
+            "ru": "Интерьер или вход в салон «Виктория»",
+            "en": "Victoria salon interior or entrance",
             "hy": ""
           }
         },
         {
           "src": "gallery-13.webp",
           "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-14.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-15.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-16.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-17.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-18.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
+            "ru": "Интерьер или вход в салон «Виктория»",
+            "en": "Victoria salon interior or entrance",
             "hy": ""
           }
         },
         {
           "src": "gallery-19.webp",
           "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-20.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-21.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-22.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
+            "ru": "Интерьер или вход в салон «Виктория»",
+            "en": "Victoria salon interior or entrance",
             "hy": ""
           }
         },
         {
           "src": "gallery-23.webp",
           "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-24.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-25.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-26.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-27.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-28.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-29.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-30.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-31.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-32.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-33.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-34.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-35.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-36.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-37.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-38.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-39.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-40.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-41.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-42.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
+            "ru": "Интерьер или вход в салон «Виктория»",
+            "en": "Victoria salon interior or entrance",
             "hy": ""
           }
         },
         {
           "src": "gallery-43.webp",
           "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-44.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-45.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-46.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-47.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-48.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-49.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-50.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-51.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-52.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-53.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-54.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-55.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-56.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-57.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-58.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
+            "ru": "Интерьер или вход в салон «Виктория»",
+            "en": "Victoria salon interior or entrance",
             "hy": ""
           }
         },
         {
           "src": "gallery-59.webp",
           "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-60.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-61.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-62.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-63.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
+            "ru": "Интерьер или вход в салон «Виктория»",
+            "en": "Victoria salon interior or entrance",
             "hy": ""
           }
         },
         {
           "src": "gallery-64.webp",
           "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-65.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
+            "ru": "Интерьер или вход в салон «Виктория»",
+            "en": "Victoria salon interior or entrance",
             "hy": ""
           }
         },
         {
           "src": "gallery-66.webp",
           "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-67.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-68.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-69.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-70.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
-            "hy": ""
-          }
-        },
-        {
-          "src": "gallery-71.webp",
-          "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
+            "ru": "Интерьер или вход в салон «Виктория»",
+            "en": "Victoria salon interior or entrance",
             "hy": ""
           }
         },
         {
           "src": "gallery-72.webp",
           "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
+            "ru": "Интерьер или вход в салон «Виктория»",
+            "en": "Victoria salon interior or entrance",
             "hy": ""
           }
         },
         {
           "src": "gallery-73.webp",
           "alt": {
-            "ru": "Фото салона «Виктория»",
-            "en": "Victoria salon gallery photo",
+            "ru": "Интерьер или вход в салон «Виктория»",
+            "en": "Victoria salon interior or entrance",
+            "hy": ""
+          }
+        }
+      ],
+      "Ногти": [
+        {
+          "src": "gallery-02.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-07.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-10.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-18.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-21.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-24.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-29.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-32.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-34.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-37.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-38.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-44.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-46.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-48.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-49.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-52.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-54.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-56.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-61.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-65.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-67.webp",
+          "alt": {
+            "ru": "Работа мастера маникюра или педикюра",
+            "en": "Manicure or pedicure result",
+            "hy": ""
+          }
+        }
+      ],
+      "Волосы": [
+        {
+          "src": "gallery-06.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-08.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-09.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-11.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-12.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-15.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-16.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-17.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-20.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-22.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-25.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-26.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-27.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-30.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-31.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-35.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-36.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-39.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-40.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-41.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-42.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-45.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-47.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-50.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-51.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-53.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-55.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-57.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-60.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-62.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-63.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-68.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-69.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-70.webp",
+          "alt": {
+            "ru": "Работа парикмахера салона «Виктория»",
+            "en": "Haircut, color or styling result",
+            "hy": ""
+          }
+        }
+      ],
+      "Брови и ресницы": [
+        {
+          "src": "gallery-14.webp",
+          "alt": {
+            "ru": "Уход за бровями или ресницами",
+            "en": "Brow or lash treatment",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-33.webp",
+          "alt": {
+            "ru": "Уход за бровями или ресницами",
+            "en": "Brow or lash treatment",
+            "hy": ""
+          }
+        },
+        {
+          "src": "gallery-58.webp",
+          "alt": {
+            "ru": "Уход за бровями или ресницами",
+            "en": "Brow or lash treatment",
+            "hy": ""
+          }
+        }
+      ],
+      "Перманентный макияж": [
+        {
+          "src": "gallery-28.webp",
+          "alt": {
+            "ru": "Результат перманентного макияжа",
+            "en": "Permanent makeup result",
+            "hy": ""
+          }
+        }
+      ],
+      "Пирсинг": [
+        {
+          "src": "gallery-71.webp",
+          "alt": {
+            "ru": "Результат прокола уха",
+            "en": "Ear piercing result",
             "hy": ""
           }
         }
@@ -895,8 +865,8 @@
       "id": "service-003",
       "category": "Окрашивание, завивка",
       "title": {
-        "ru": "Химическая завивка длинные волосы",
-        "en": "Perm — long hair",
+        "ru": "Химическая завивка",
+        "en": "Perm",
         "hy": ""
       },
       "price": "13000 ₽",
@@ -906,48 +876,43 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-004",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Химическая завивка средние волосы",
-        "en": "Perm — medium hair",
-        "hy": ""
-      },
-      "price": "8000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-005",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Химическая завивка короткие волосы",
-        "en": "Perm — short hair",
-        "hy": ""
-      },
-      "price": "6000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "6000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "8000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "13000 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-006",
       "category": "Окрашивание, завивка",
       "title": {
-        "ru": "Тотал Блонд (обесцвечивание) длинные волосы",
-        "en": "Total Blond bleaching — long hair",
+        "ru": "Тотал Блонд (обесцвечивание)",
+        "en": "Total Blond bleaching",
         "hy": ""
       },
       "price": "8000 ₽",
@@ -957,48 +922,43 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-007",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Тотал Блонд (обесцвечивание) средние волосы",
-        "en": "Total Blond bleaching — medium hair",
-        "hy": ""
-      },
-      "price": "6500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-008",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Тотал Блонд (обесцвечивание) короткие волосы",
-        "en": "Total Blond bleaching — short hair",
-        "hy": ""
-      },
-      "price": "5000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "5000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "6500 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "8000 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-009",
       "category": "Окрашивание, завивка",
       "title": {
-        "ru": "Контуринг+тонирование длинные волосы",
-        "en": "Contouring & toning — long hair",
+        "ru": "Контуринг+тонирование",
+        "en": "Contouring & toning",
         "hy": ""
       },
       "price": "12000 ₽",
@@ -1008,31 +968,34 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-010",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Контуринг+тонирование средние волосы",
-        "en": "Contouring & toning — medium hair",
-        "hy": ""
-      },
-      "price": "10000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "10000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "12000 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-011",
       "category": "Окрашивание, завивка",
       "title": {
-        "ru": "Частичное мелирование длинные волосы",
-        "en": "Partial highlights — long hair",
+        "ru": "Частичное мелирование",
+        "en": "Partial highlights",
         "hy": ""
       },
       "price": "6000 ₽",
@@ -1042,48 +1005,43 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-012",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Частичное мелирование средние волосы",
-        "en": "Partial highlights — medium hair",
-        "hy": ""
-      },
-      "price": "5000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-013",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Частичное мелирование короткие волосы",
-        "en": "Partial highlights — short hair",
-        "hy": ""
-      },
-      "price": "4500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "4500 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "5000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "6000 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-014",
       "category": "Окрашивание, завивка",
       "title": {
-        "ru": "Мелирование на фольгу длинные волосы",
-        "en": "Foil highlights — long hair",
+        "ru": "Мелирование на фольгу",
+        "en": "Foil highlights",
         "hy": ""
       },
       "price": "8000 ₽",
@@ -1093,48 +1051,43 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-015",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Мелирование на фольгу средние волосы",
-        "en": "Foil highlights — medium hair",
-        "hy": ""
-      },
-      "price": "7000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-016",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Мелирование на фольгу короткие волосы",
-        "en": "Foil highlights — short hair",
-        "hy": ""
-      },
-      "price": "6000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "6000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "7000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "8000 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-017",
       "category": "Окрашивание, завивка",
       "title": {
-        "ru": "Окрашивание длинные волосы",
-        "en": "Hair coloring — long hair",
+        "ru": "Окрашивание",
+        "en": "Hair coloring",
         "hy": ""
       },
       "price": "4500 ₽",
@@ -1144,48 +1097,43 @@
         "en": "Окрашивание красителем клиента",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-018",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Окрашивание средние волосы",
-        "en": "Hair coloring — medium hair",
-        "hy": ""
-      },
-      "price": "4000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Окрашивание красителем клиента",
-        "en": "Окрашивание красителем клиента",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-019",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Окрашивание короткие волосы",
-        "en": "Hair coloring — short hair",
-        "hy": ""
-      },
-      "price": "3500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Окрашивание красителем клиента",
-        "en": "Окрашивание красителем клиента",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "3500 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "4000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "4500 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-020",
       "category": "Окрашивание, завивка",
       "title": {
-        "ru": "Сложное окрашивание длинные волосы",
-        "en": "Complex hair coloring — long hair",
+        "ru": "Сложное окрашивание",
+        "en": "Complex hair coloring",
         "hy": ""
       },
       "price": "15000 ₽",
@@ -1195,48 +1143,43 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-021",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Сложное окрашивание средние волосы",
-        "en": "Complex hair coloring — medium hair",
-        "hy": ""
-      },
-      "price": "13000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-022",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Сложное окрашивание короткие волосы",
-        "en": "Complex hair coloring — short hair",
-        "hy": ""
-      },
-      "price": "10000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "10000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "13000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "15000 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-023",
       "category": "Окрашивание, завивка",
       "title": {
-        "ru": "Эйртач длинные волосы",
-        "en": "AirTouch hair coloring — long hair",
+        "ru": "Эйртач",
+        "en": "AirTouch hair coloring",
         "hy": ""
       },
       "price": "25000 ₽",
@@ -1246,24 +1189,27 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-024",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Эйртач средние волосы",
-        "en": "AirTouch hair coloring — medium hair",
-        "hy": ""
-      },
-      "price": "20000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "20000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "25000 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-025",
@@ -1286,8 +1232,8 @@
       "id": "service-026",
       "category": "Окрашивание, завивка",
       "title": {
-        "ru": "Тонирование длинные волосы",
-        "en": "Hair toning — long hair",
+        "ru": "Тонирование",
+        "en": "Hair toning",
         "hy": ""
       },
       "price": "6500 ₽",
@@ -1297,48 +1243,43 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-027",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Тонирование средние волосы",
-        "en": "Hair toning — medium hair",
-        "hy": ""
-      },
-      "price": "5000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-028",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Тонирование короткие волосы",
-        "en": "Hair toning — short hair",
-        "hy": ""
-      },
-      "price": "4500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "4500 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "5000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "6500 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-029",
       "category": "Окрашивание, завивка",
       "title": {
-        "ru": "Окрашивание KAPOUS длинные волосы",
-        "en": "KAPOUS hair coloring — long hair",
+        "ru": "Окрашивание KAPOUS",
+        "en": "KAPOUS hair coloring",
         "hy": ""
       },
       "price": "6000 ₽",
@@ -1348,48 +1289,43 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-030",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Окрашивание KAPOUS средние волосы",
-        "en": "KAPOUS hair coloring — medium hair",
-        "hy": ""
-      },
-      "price": "5000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-031",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Окрашивание KAPOUS короткие волосы",
-        "en": "KAPOUS hair coloring — short hair",
-        "hy": ""
-      },
-      "price": "4500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "4500 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "5000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "6000 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-032",
       "category": "Окрашивание, завивка",
       "title": {
-        "ru": "Окрашивание MATRIX длинные волосы",
-        "en": "MATRIX hair coloring — long hair",
+        "ru": "Окрашивание MATRIX",
+        "en": "MATRIX hair coloring",
         "hy": ""
       },
       "price": "8000 ₽",
@@ -1399,41 +1335,36 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-033",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Окрашивание MATRIX средние волосы",
-        "en": "MATRIX hair coloring — medium hair",
-        "hy": ""
-      },
-      "price": "6000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-034",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Окрашивание MATRIX короткие волосы",
-        "en": "MATRIX hair coloring — short hair",
-        "hy": ""
-      },
-      "price": "5000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "5000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "6000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "8000 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-035",
@@ -3190,8 +3121,8 @@
       "id": "service-138",
       "category": "Парикмахерские услуги женщины",
       "title": {
-        "ru": "Укладка вечерняя длинные волосы",
-        "en": "Evening hair styling — long hair",
+        "ru": "Укладка вечерняя",
+        "en": "Evening hair styling",
         "hy": ""
       },
       "price": "5000 ₽",
@@ -3201,31 +3132,34 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-139",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Укладка вечерняя средние волосы",
-        "en": "Evening hair styling — medium hair",
-        "hy": ""
-      },
-      "price": "3500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "3500 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "5000 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-140",
       "category": "Парикмахерские услуги женщины",
       "title": {
-        "ru": "Укладка длинные волосы",
-        "en": "Hair styling — long hair",
+        "ru": "Укладка",
+        "en": "Hair styling",
         "hy": ""
       },
       "price": "2500 ₽",
@@ -3235,48 +3169,43 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-141",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Укладка средние волосы",
-        "en": "Hair styling — medium hair",
-        "hy": ""
-      },
-      "price": "2300 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-142",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Укладка короткие волосы",
-        "en": "Hair styling — short hair",
-        "hy": ""
-      },
-      "price": "2000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "2000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "2300 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "2500 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-143",
       "category": "Парикмахерские услуги женщины",
       "title": {
-        "ru": "Сушка по форме длинные волосы",
-        "en": "Hair blow-dry styling — long hair",
+        "ru": "Сушка по форме",
+        "en": "Hair blow-dry styling",
         "hy": ""
       },
       "price": "1600 ₽",
@@ -3286,41 +3215,36 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-144",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Сушка по форме средние волосы",
-        "en": "Hair blow-dry styling — medium hair",
-        "hy": ""
-      },
-      "price": "1400 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-145",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Сушка по форме короткие волосы",
-        "en": "Hair blow-dry styling — short hair",
-        "hy": ""
-      },
-      "price": "1200 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "1200 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "1400 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "1600 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-146",
@@ -3377,8 +3301,8 @@
       "id": "service-149",
       "category": "Парикмахерские услуги женщины",
       "title": {
-        "ru": "Стрижка с укладкой длинные волосы",
-        "en": "Haircut & styling — long hair",
+        "ru": "Стрижка с укладкой",
+        "en": "Haircut & styling",
         "hy": ""
       },
       "price": "3000 ₽",
@@ -3388,41 +3312,36 @@
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-150",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Стрижка с укладкой средние волосы",
-        "en": "Haircut & styling — medium hair",
-        "hy": ""
-      },
-      "price": "2700 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-151",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Стрижка с укладкой короткие волосы",
-        "en": "Haircut & styling — short hair",
-        "hy": ""
-      },
-      "price": "2500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "2500 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "2700 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "",
+          "price": "3000 ₽"
+        }
+      ],
+      "variantType": "length"
     },
     {
       "id": "service-152",
