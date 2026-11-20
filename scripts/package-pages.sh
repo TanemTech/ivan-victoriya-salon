@@ -16,7 +16,7 @@ for file in "${core_files[@]}"; do
 done
 
 shopt -s nullglob
-for file in hero.webp profile.webp gallery-*.webp team-*.webp logo.webp logo.png logo.svg; do
+for file in hero.webp profile.webp gallery-*.webp team-*.webp master-*.webp logo.webp logo.png logo.svg; do
     if [[ -f "$file" && ! -L "$file" ]]; then
         cp -- "$file" _site/
     fi
