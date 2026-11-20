@@ -13,8 +13,8 @@
   "defaultLocale": "ru",
   "salon": {
     "name": {
-      "ru": "Виктория",
-      "en": "Victoria",
+      "ru": "VICTORY",
+      "en": "VICTORY",
       "hy": ""
     },
     "kind": {
@@ -105,7 +105,7 @@
     "count": 281
   },
   "media": {
-    "logo": "",
+    "logo": "logo.webp",
     "hero": [
       {
         "src": "hero.webp",
@@ -119,7 +119,7 @@
     "about": "profile.webp",
     "portfolio": [
       {
-        "src": "gallery-06.webp",
+        "src": "gallery-70.webp",
         "alt": {
           "ru": "Работа парикмахера салона «Виктория»",
           "en": "Haircut, color or styling result",
@@ -127,7 +127,7 @@
         }
       },
       {
-        "src": "gallery-10.webp",
+        "src": "gallery-65.webp",
         "alt": {
           "ru": "Работа мастера маникюра или педикюра",
           "en": "Manicure or pedicure result",
@@ -135,15 +135,7 @@
         }
       },
       {
-        "src": "gallery-14.webp",
-        "alt": {
-          "ru": "Уход за бровями или ресницами",
-          "en": "Brow or lash treatment",
-          "hy": ""
-        }
-      },
-      {
-        "src": "gallery-15.webp",
+        "src": "gallery-50.webp",
         "alt": {
           "ru": "Работа парикмахера салона «Виктория»",
           "en": "Haircut, color or styling result",
@@ -151,7 +143,7 @@
         }
       },
       {
-        "src": "gallery-21.webp",
+        "src": "gallery-37.webp",
         "alt": {
           "ru": "Работа мастера маникюра или педикюра",
           "en": "Manicure or pedicure result",
@@ -159,18 +151,26 @@
         }
       },
       {
-        "src": "gallery-44.webp",
-        "alt": {
-          "ru": "Работа мастера маникюра или педикюра",
-          "en": "Manicure or pedicure result",
-          "hy": ""
-        }
-      },
-      {
-        "src": "gallery-55.webp",
+        "src": "gallery-63.webp",
         "alt": {
           "ru": "Работа парикмахера салона «Виктория»",
           "en": "Haircut, color or styling result",
+          "hy": ""
+        }
+      },
+      {
+        "src": "gallery-52.webp",
+        "alt": {
+          "ru": "Работа мастера маникюра или педикюра",
+          "en": "Manicure or pedicure result",
+          "hy": ""
+        }
+      },
+      {
+        "src": "gallery-28.webp",
+        "alt": {
+          "ru": "Результат перманентного макияжа",
+          "en": "Permanent makeup result",
           "hy": ""
         }
       }
@@ -828,54 +828,21 @@
   ],
   "services": [
     {
-      "id": "service-001",
-      "category": "Окрашивание, завивка",
+      "id": "service-149",
+      "category": "Парикмахерские услуги женщины",
       "title": {
-        "ru": "Флисинг",
-        "en": "Root volume treatment",
+        "ru": "Стрижка с укладкой",
+        "en": "Haircut & styling",
         "hy": ""
       },
-      "price": "7000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Долговременная укладка, которая придает волосам прикорневой объём",
-        "en": "Долговременная укладка, которая придает волосам прикорневой объём",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-002",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Химическая завивка прикорневая",
-        "en": "Root perm",
-        "hy": ""
-      },
-      "price": "10000 ₽",
+      "price": "2 500–3 000 ₽",
       "duration": "",
       "description": {
         "ru": "",
         "en": "",
         "hy": ""
       },
-      "variants": []
-    },
-    {
-      "id": "service-003",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Химическая завивка",
-        "en": "Perm",
-        "hy": ""
-      },
-      "price": "13000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
+      "variantType": "length",
       "variants": [
         {
           "label": {
@@ -883,8 +850,8 @@
             "en": "Short hair",
             "hy": ""
           },
-          "duration": "",
-          "price": "6000 ₽"
+          "duration": "1 ч",
+          "price": "2 500 ₽"
         },
         {
           "label": {
@@ -892,8 +859,8 @@
             "en": "Medium hair",
             "hy": ""
           },
-          "duration": "",
-          "price": "8000 ₽"
+          "duration": "1 ч",
+          "price": "2 700 ₽"
         },
         {
           "label": {
@@ -901,326 +868,21 @@
             "en": "Long hair",
             "hy": ""
           },
-          "duration": "",
-          "price": "13000 ₽"
+          "duration": "1 ч",
+          "price": "3 000 ₽"
         }
-      ],
-      "variantType": "length"
+      ]
     },
     {
-      "id": "service-006",
-      "category": "Окрашивание, завивка",
+      "id": "service-148",
+      "category": "Парикмахерские услуги женщины",
       "title": {
-        "ru": "Тотал Блонд (обесцвечивание)",
-        "en": "Total Blond bleaching",
+        "ru": "Подравнивание (стрижка одним срезом)",
+        "en": "One-length trim",
         "hy": ""
       },
-      "price": "8000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": [
-        {
-          "label": {
-            "ru": "Короткие волосы",
-            "en": "Short hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "5000 ₽"
-        },
-        {
-          "label": {
-            "ru": "Средние волосы",
-            "en": "Medium hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "6500 ₽"
-        },
-        {
-          "label": {
-            "ru": "Длинные волосы",
-            "en": "Long hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "8000 ₽"
-        }
-      ],
-      "variantType": "length"
-    },
-    {
-      "id": "service-009",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Контуринг+тонирование",
-        "en": "Contouring & toning",
-        "hy": ""
-      },
-      "price": "12000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": [
-        {
-          "label": {
-            "ru": "Средние волосы",
-            "en": "Medium hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "10000 ₽"
-        },
-        {
-          "label": {
-            "ru": "Длинные волосы",
-            "en": "Long hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "12000 ₽"
-        }
-      ],
-      "variantType": "length"
-    },
-    {
-      "id": "service-011",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Частичное мелирование",
-        "en": "Partial highlights",
-        "hy": ""
-      },
-      "price": "6000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": [
-        {
-          "label": {
-            "ru": "Короткие волосы",
-            "en": "Short hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "4500 ₽"
-        },
-        {
-          "label": {
-            "ru": "Средние волосы",
-            "en": "Medium hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "5000 ₽"
-        },
-        {
-          "label": {
-            "ru": "Длинные волосы",
-            "en": "Long hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "6000 ₽"
-        }
-      ],
-      "variantType": "length"
-    },
-    {
-      "id": "service-014",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Мелирование на фольгу",
-        "en": "Foil highlights",
-        "hy": ""
-      },
-      "price": "8000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": [
-        {
-          "label": {
-            "ru": "Короткие волосы",
-            "en": "Short hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "6000 ₽"
-        },
-        {
-          "label": {
-            "ru": "Средние волосы",
-            "en": "Medium hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "7000 ₽"
-        },
-        {
-          "label": {
-            "ru": "Длинные волосы",
-            "en": "Long hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "8000 ₽"
-        }
-      ],
-      "variantType": "length"
-    },
-    {
-      "id": "service-017",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Окрашивание",
-        "en": "Hair coloring",
-        "hy": ""
-      },
-      "price": "4500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Окрашивание красителем клиента",
-        "en": "Окрашивание красителем клиента",
-        "hy": ""
-      },
-      "variants": [
-        {
-          "label": {
-            "ru": "Короткие волосы",
-            "en": "Short hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "3500 ₽"
-        },
-        {
-          "label": {
-            "ru": "Средние волосы",
-            "en": "Medium hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "4000 ₽"
-        },
-        {
-          "label": {
-            "ru": "Длинные волосы",
-            "en": "Long hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "4500 ₽"
-        }
-      ],
-      "variantType": "length"
-    },
-    {
-      "id": "service-020",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Сложное окрашивание",
-        "en": "Complex hair coloring",
-        "hy": ""
-      },
-      "price": "15000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": [
-        {
-          "label": {
-            "ru": "Короткие волосы",
-            "en": "Short hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "10000 ₽"
-        },
-        {
-          "label": {
-            "ru": "Средние волосы",
-            "en": "Medium hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "13000 ₽"
-        },
-        {
-          "label": {
-            "ru": "Длинные волосы",
-            "en": "Long hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "15000 ₽"
-        }
-      ],
-      "variantType": "length"
-    },
-    {
-      "id": "service-023",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Эйртач",
-        "en": "AirTouch hair coloring",
-        "hy": ""
-      },
-      "price": "25000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": [
-        {
-          "label": {
-            "ru": "Средние волосы",
-            "en": "Medium hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "20000 ₽"
-        },
-        {
-          "label": {
-            "ru": "Длинные волосы",
-            "en": "Long hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "25000 ₽"
-        }
-      ],
-      "variantType": "length"
-    },
-    {
-      "id": "service-025",
-      "category": "Окрашивание, завивка",
-      "title": {
-        "ru": "Тонирование маской",
-        "en": "Toning mask",
-        "hy": ""
-      },
-      "price": "1500 ₽",
-      "duration": "",
+      "price": "1 500 ₽",
+      "duration": "30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -1229,66 +891,55 @@
       "variants": []
     },
     {
-      "id": "service-026",
-      "category": "Окрашивание, завивка",
+      "id": "service-147",
+      "category": "Парикмахерские услуги женщины",
       "title": {
-        "ru": "Тонирование",
-        "en": "Hair toning",
+        "ru": "Коррекция челки",
+        "en": "Fringe trim",
         "hy": ""
       },
-      "price": "6500 ₽",
-      "duration": "",
+      "price": "500 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
         "hy": ""
       },
-      "variants": [
-        {
-          "label": {
-            "ru": "Короткие волосы",
-            "en": "Short hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "4500 ₽"
-        },
-        {
-          "label": {
-            "ru": "Средние волосы",
-            "en": "Medium hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "5000 ₽"
-        },
-        {
-          "label": {
-            "ru": "Длинные волосы",
-            "en": "Long hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "6500 ₽"
-        }
-      ],
-      "variantType": "length"
+      "variants": []
     },
     {
-      "id": "service-029",
-      "category": "Окрашивание, завивка",
+      "id": "service-146",
+      "category": "Парикмахерские услуги женщины",
       "title": {
-        "ru": "Окрашивание KAPOUS",
-        "en": "KAPOUS hair coloring",
+        "ru": "Стрижка детская",
+        "en": "Children's haircut",
         "hy": ""
       },
-      "price": "6000 ₽",
+      "price": "1 500 ₽",
+      "duration": "1 ч",
+      "description": {
+        "ru": "Дети до 7 лет",
+        "en": "For children under 7.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-140",
+      "category": "Парикмахерские услуги женщины",
+      "title": {
+        "ru": "Укладка",
+        "en": "Hair styling",
+        "hy": ""
+      },
+      "price": "2 000–2 500 ₽",
       "duration": "",
       "description": {
         "ru": "",
         "en": "",
         "hy": ""
       },
+      "variantType": "length",
       "variants": [
         {
           "label": {
@@ -1296,8 +947,8 @@
             "en": "Short hair",
             "hy": ""
           },
-          "duration": "",
-          "price": "4500 ₽"
+          "duration": "1 ч",
+          "price": "2 000 ₽"
         },
         {
           "label": {
@@ -1305,8 +956,8 @@
             "en": "Medium hair",
             "hy": ""
           },
-          "duration": "",
-          "price": "5000 ₽"
+          "duration": "1 ч",
+          "price": "2 300 ₽"
         },
         {
           "label": {
@@ -1314,11 +965,161 @@
             "en": "Long hair",
             "hy": ""
           },
-          "duration": "",
-          "price": "6000 ₽"
+          "duration": "1 ч",
+          "price": "2 500 ₽"
         }
-      ],
-      "variantType": "length"
+      ]
+    },
+    {
+      "id": "service-138",
+      "category": "Парикмахерские услуги женщины",
+      "title": {
+        "ru": "Укладка вечерняя",
+        "en": "Evening hair styling",
+        "hy": ""
+      },
+      "price": "3 500–5 000 ₽",
+      "duration": "",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variantType": "length",
+      "variants": [
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "1 ч 30 мин",
+          "price": "3 500 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "1 ч 30 мин",
+          "price": "5 000 ₽"
+        }
+      ]
+    },
+    {
+      "id": "yc-012",
+      "category": "Парикмахерские услуги женщины",
+      "title": {
+        "ru": "Уход холодный ботокс KV-1",
+        "en": "KV-1 cold botox treatment",
+        "hy": ""
+      },
+      "price": "4 000–7 000 ₽",
+      "duration": "",
+      "description": {
+        "ru": "Длина волос зависит от выбранного варианта: до 25 см, до 45 см или от 45 см.",
+        "en": "Choose the appropriate hair length: up to 25 cm, up to 45 cm, or from 45 cm.",
+        "hy": ""
+      },
+      "variantType": "length",
+      "variants": [
+        {
+          "label": {
+            "ru": "Средние волосы (до 25 см)",
+            "en": "Medium hair (up to 25 cm)",
+            "hy": ""
+          },
+          "duration": "1 ч",
+          "price": "4 000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы (до 45 см)",
+            "en": "Long hair (up to 45 cm)",
+            "hy": ""
+          },
+          "duration": "1 ч 30 мин",
+          "price": "5 000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Очень длинные волосы (от 45 см)",
+            "en": "Very long hair (from 45 cm)",
+            "hy": ""
+          },
+          "duration": "1 ч 30 мин",
+          "price": "7 000 ₽"
+        }
+      ]
+    },
+    {
+      "id": "service-171",
+      "category": "Парикмахерские услуги мужчины",
+      "title": {
+        "ru": "Стрижка мужская модельная",
+        "en": "Men's style haircut",
+        "hy": ""
+      },
+      "price": "2 000 ₽",
+      "duration": "1 ч",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-170",
+      "category": "Парикмахерские услуги мужчины",
+      "title": {
+        "ru": "Стрижка мужская модельная удлиненная",
+        "en": "Men's extended style haircut",
+        "hy": ""
+      },
+      "price": "2 500 ₽",
+      "duration": "1 ч",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-169",
+      "category": "Парикмахерские услуги мужчины",
+      "title": {
+        "ru": "Стрижка под 1 насадку",
+        "en": "One-guard clipper cut",
+        "hy": ""
+      },
+      "price": "1 200 ₽",
+      "duration": "30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-168",
+      "category": "Парикмахерские услуги мужчины",
+      "title": {
+        "ru": "Стрижка под 2 насадки",
+        "en": "Two-guard clipper cut",
+        "hy": ""
+      },
+      "price": "1 500 ₽",
+      "duration": "30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
     },
     {
       "id": "service-032",
@@ -1328,13 +1129,14 @@
         "en": "MATRIX hair coloring",
         "hy": ""
       },
-      "price": "8000 ₽",
+      "price": "5 000–8 000 ₽",
       "duration": "",
       "description": {
-        "ru": "",
-        "en": "",
+        "ru": "Цена не включает в себя сушку или стрижку",
+        "en": "Blow-drying or a haircut is not included in the price.",
         "hy": ""
       },
+      "variantType": "length",
       "variants": [
         {
           "label": {
@@ -1342,8 +1144,8 @@
             "en": "Short hair",
             "hy": ""
           },
-          "duration": "",
-          "price": "5000 ₽"
+          "duration": "2 ч",
+          "price": "5 000 ₽"
         },
         {
           "label": {
@@ -1351,8 +1153,8 @@
             "en": "Medium hair",
             "hy": ""
           },
-          "duration": "",
-          "price": "6000 ₽"
+          "duration": "2 ч",
+          "price": "6 000 ₽"
         },
         {
           "label": {
@@ -1360,549 +1162,711 @@
             "en": "Long hair",
             "hy": ""
           },
-          "duration": "",
-          "price": "8000 ₽"
+          "duration": "2 ч",
+          "price": "8 000 ₽"
         }
-      ],
-      "variantType": "length"
+      ]
     },
     {
-      "id": "service-035",
-      "category": "Косметология уход",
+      "id": "service-029",
+      "category": "Окрашивание, завивка",
       "title": {
-        "ru": "Дарсонваль головы",
-        "en": "Darsonval scalp treatment",
+        "ru": "Окрашивание KAPOUS",
+        "en": "KAPOUS hair coloring",
         "hy": ""
       },
-      "price": "500 ₽",
+      "price": "4 500–6 000 ₽",
       "duration": "",
       "description": {
-        "ru": "",
-        "en": "",
+        "ru": "Цена не включает в себя сушку или стрижку",
+        "en": "Blow-drying or a haircut is not included in the price.",
+        "hy": ""
+      },
+      "variantType": "length",
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "2 ч",
+          "price": "4 500 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "2 ч",
+          "price": "5 000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "2 ч",
+          "price": "6 000 ₽"
+        }
+      ]
+    },
+    {
+      "id": "service-023",
+      "category": "Окрашивание, завивка",
+      "title": {
+        "ru": "Эйртач",
+        "en": "AirTouch hair coloring",
+        "hy": ""
+      },
+      "price": "20 000–25 000 ₽",
+      "duration": "",
+      "description": {
+        "ru": "Цена не включает в себя сушку или стрижку",
+        "en": "Blow-drying or a haircut is not included in the price.",
+        "hy": ""
+      },
+      "variantType": "length",
+      "variants": [
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "4 ч 30 мин",
+          "price": "20 000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "4 ч 30 мин",
+          "price": "25 000 ₽"
+        }
+      ]
+    },
+    {
+      "id": "service-020",
+      "category": "Окрашивание, завивка",
+      "title": {
+        "ru": "Сложное окрашивание",
+        "en": "Complex hair coloring",
+        "hy": ""
+      },
+      "price": "10 000–15 000 ₽",
+      "duration": "",
+      "description": {
+        "ru": "Цена не включает в себя сушку или стрижку",
+        "en": "Blow-drying or a haircut is not included in the price.",
+        "hy": ""
+      },
+      "variantType": "length",
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "3 ч",
+          "price": "10 000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "3 ч",
+          "price": "13 000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "3 ч",
+          "price": "15 000 ₽"
+        }
+      ]
+    },
+    {
+      "id": "service-014",
+      "category": "Окрашивание, завивка",
+      "title": {
+        "ru": "Мелирование на фольгу",
+        "en": "Foil highlights",
+        "hy": ""
+      },
+      "price": "6 000–8 000 ₽",
+      "duration": "",
+      "description": {
+        "ru": "Цена не включает в себя сушку или стрижку",
+        "en": "Blow-drying or a haircut is not included in the price.",
+        "hy": ""
+      },
+      "variantType": "length",
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "2 ч 30 мин",
+          "price": "6 000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "2 ч 30 мин",
+          "price": "7 000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "2 ч 30 мин",
+          "price": "8 000 ₽"
+        }
+      ]
+    },
+    {
+      "id": "service-011",
+      "category": "Окрашивание, завивка",
+      "title": {
+        "ru": "Частичное мелирование",
+        "en": "Partial highlights",
+        "hy": ""
+      },
+      "price": "4 500–6 000 ₽",
+      "duration": "",
+      "description": {
+        "ru": "Цена не включает в себя сушку или стрижку",
+        "en": "Blow-drying or a haircut is not included in the price.",
+        "hy": ""
+      },
+      "variantType": "length",
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "2 ч",
+          "price": "4 500 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "2 ч",
+          "price": "5 000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "2 ч",
+          "price": "6 000 ₽"
+        }
+      ]
+    },
+    {
+      "id": "service-009",
+      "category": "Окрашивание, завивка",
+      "title": {
+        "ru": "Контуринг+тонирование",
+        "en": "Contouring & toning",
+        "hy": ""
+      },
+      "price": "10 000–12 000 ₽",
+      "duration": "",
+      "description": {
+        "ru": "Цена не включает в себя сушку или стрижку",
+        "en": "Blow-drying or a haircut is not included in the price.",
+        "hy": ""
+      },
+      "variantType": "length",
+      "variants": [
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "2 ч",
+          "price": "10 000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "3 ч",
+          "price": "12 000 ₽"
+        }
+      ]
+    },
+    {
+      "id": "service-006",
+      "category": "Окрашивание, завивка",
+      "title": {
+        "ru": "Тотал Блонд (обесцвечивание)",
+        "en": "Total Blond bleaching",
+        "hy": ""
+      },
+      "price": "5 000–8 000 ₽",
+      "duration": "",
+      "description": {
+        "ru": "Цена не включает в себя сушку или стрижку",
+        "en": "Blow-drying or a haircut is not included in the price.",
+        "hy": ""
+      },
+      "variantType": "length",
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "1 ч 30 мин",
+          "price": "5 000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "1 ч 30 мин",
+          "price": "6 500 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "1 ч 30 мин",
+          "price": "8 000 ₽"
+        }
+      ]
+    },
+    {
+      "id": "service-003",
+      "category": "Окрашивание, завивка",
+      "title": {
+        "ru": "Химическая завивка",
+        "en": "Perm",
+        "hy": ""
+      },
+      "price": "6 000–13 000 ₽",
+      "duration": "",
+      "description": {
+        "ru": "Цена не включает в себя сушку или стрижку",
+        "en": "Blow-drying or a haircut is not included in the price.",
+        "hy": ""
+      },
+      "variantType": "length",
+      "variants": [
+        {
+          "label": {
+            "ru": "Короткие волосы",
+            "en": "Short hair",
+            "hy": ""
+          },
+          "duration": "2 ч 30 мин",
+          "price": "6 000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Средние волосы",
+            "en": "Medium hair",
+            "hy": ""
+          },
+          "duration": "2 ч 30 мин",
+          "price": "8 000 ₽"
+        },
+        {
+          "label": {
+            "ru": "Длинные волосы",
+            "en": "Long hair",
+            "hy": ""
+          },
+          "duration": "3 ч",
+          "price": "13 000 ₽"
+        }
+      ]
+    },
+    {
+      "id": "service-002",
+      "category": "Окрашивание, завивка",
+      "title": {
+        "ru": "Химическая завивка прикорневая",
+        "en": "Root perm",
+        "hy": ""
+      },
+      "price": "10 000 ₽",
+      "duration": "2 ч 30 мин",
+      "description": {
+        "ru": "Цена не включает в себя сушку или стрижку",
+        "en": "Blow-drying or a haircut is not included in the price.",
         "hy": ""
       },
       "variants": []
     },
     {
-      "id": "service-036",
-      "category": "Косметология уход",
+      "id": "service-001",
+      "category": "Окрашивание, завивка",
       "title": {
-        "ru": "Дарсонваль лица",
-        "en": "Darsonval face treatment",
+        "ru": "Флисинг",
+        "en": "Root volume treatment",
         "hy": ""
       },
-      "price": "1000 ₽",
-      "duration": "",
+      "price": "7 000 ₽",
+      "duration": "2 ч",
       "description": {
-        "ru": "",
-        "en": "",
+        "ru": "Долговременная укладка для прикорневого объёма. Сушка или стрижка в цену не входят.",
+        "en": "Long-lasting styling to add volume at the roots. Blow-drying and haircuts are not included in the price.",
         "hy": ""
       },
       "variants": []
     },
     {
-      "id": "service-037",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Чистка спины",
-        "en": "Back cleansing treatment",
-        "hy": ""
-      },
-      "price": "8000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-038",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Чистка зоны декольте",
-        "en": "Décolletage cleansing",
-        "hy": ""
-      },
-      "price": "4000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-039",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Чистка для проблемной кожи COMODEX",
-        "en": "COMODEX acne-prone skin cleansing",
-        "hy": ""
-      },
-      "price": "6000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Подходит для подростков с 11 лет",
-        "en": "Подходит для подростков с 11 лет",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-040",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Чистка лица для чувствительной кожи и кожи с признаками купероза",
-        "en": "Sensitive-skin facial cleansing",
-        "hy": ""
-      },
-      "price": "6000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-041",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Пилинг спины",
-        "en": "Back peel",
-        "hy": ""
-      },
-      "price": "7000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-042",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Чистка лица ультразвуковая",
-        "en": "Ultrasonic facial cleansing",
-        "hy": ""
-      },
-      "price": "3800 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-043",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Массаж Гуаша",
-        "en": "Gua Sha massage",
-        "hy": ""
-      },
-      "price": "3200 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-044",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Массаж лица скульптурный",
-        "en": "Sculpting face massage",
-        "hy": ""
-      },
-      "price": "3800 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-045",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Массаж лица классический",
-        "en": "Classic face massage",
-        "hy": ""
-      },
-      "price": "2400 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-046",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Феруловый пилинг",
-        "en": "Ferulic peel",
-        "hy": ""
-      },
-      "price": "5400 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-047",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Пилинг \"Anti-Age\"",
-        "en": "Anti-age peel",
-        "hy": ""
-      },
-      "price": "5400 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-048",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Пилинг \"BioRePeelCl3\"",
-        "en": "BioRePeelCl3 peel",
-        "hy": ""
-      },
-      "price": "5800 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-049",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Азелаиновый пилинг",
-        "en": "Azelaic acid peel",
-        "hy": ""
-      },
-      "price": "5400 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-050",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Салициловый пилинг",
-        "en": "Salicylic acid peel",
-        "hy": ""
-      },
-      "price": "4500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-051",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Персиковый пилинг",
-        "en": "Peach peel",
-        "hy": ""
-      },
-      "price": "4500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Пилинг + маска по типу кожи",
-        "en": "Пилинг + маска по типу кожи",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-052",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Миндальный пилинг",
-        "en": "Mandelic acid peel",
-        "hy": ""
-      },
-      "price": "4500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-053",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Карбокситерапия",
-        "en": "Carboxytherapy",
-        "hy": ""
-      },
-      "price": "4000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-054",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Маска пластифицирующая (по типу кожи)",
-        "en": "Alginate mask (by skin type)",
-        "hy": ""
-      },
-      "price": "1200 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-055",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Маска кремовая (по типу кожи)",
-        "en": "Cream mask (by skin type)",
-        "hy": ""
-      },
-      "price": "800 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-056",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Микротоковая терапия периорбитальной зоны",
-        "en": "Microcurrent eye area treatment",
-        "hy": ""
-      },
-      "price": "2000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-057",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Микротоковая терапия лица",
-        "en": "Microcurrent face treatment",
-        "hy": ""
-      },
-      "price": "4000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-058",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "РФ-лифтинг шея+декольте",
-        "en": "RF lifting: neck & décolletage",
-        "hy": ""
-      },
-      "price": "3000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-059",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "РФ-лифтинг лицо+шея",
-        "en": "RF lifting: face & neck",
-        "hy": ""
-      },
-      "price": "5200 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-060",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "РФ-лифтинг лица",
-        "en": "RF face lifting",
-        "hy": ""
-      },
-      "price": "4000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-061",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "РФ-лифтинг периорбитальной зоны",
-        "en": "RF lifting: eye area",
-        "hy": ""
-      },
-      "price": "2000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-062",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Уход \"Восстановление и сияние\"",
-        "en": "Repair & Glow facial",
-        "hy": ""
-      },
-      "price": "6000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "*Немедленный эффект процедуры*: Улучшение цвета лица, возвращение сияния; Глубокое восстановление и увлажнение; Очищение пор, устранение гиперкератоза; Лифтинг-эффект; Устранение отечности (в том числе вокруг глаз); Усиленное питание и восстановл...",
-        "en": "*Немедленный эффект процедуры*: Улучшение цвета лица, возвращение сияния; Глубокое восстановление и увлажнение; Очищение пор, устранение гиперкератоза; Лифтинг-эффект; Устранение отечности (в том числе вокруг глаз); Усиленное питание и восстановл...",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-063",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Уход \"Anti-Age\"",
-        "en": "Anti-age facial",
-        "hy": ""
-      },
-      "price": "5000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-064",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Уход \"Женский каприз\"",
-        "en": "Women's Choice facial",
-        "hy": ""
-      },
-      "price": "6500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Этот уход включает в себя: этапы очищения, специальную подготовку кожи, экспресс-массаж лица, персиковый пилинг PEACH PEEL (wow-эффект) и альгинатная маска с витаминнизированной или ботулоподобной сывороткой, финишное средство",
-        "en": "Этот уход включает в себя: этапы очищения, специальную подготовку кожи, экспресс-массаж лица, персиковый пилинг PEACH PEEL (wow-эффект) и альгинатная маска с витаминнизированной или ботулоподобной сывороткой, финишное средство",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-065",
-      "category": "Косметология уход",
-      "title": {
-        "ru": "Уход \"Бархатное возрождение\"",
-        "en": "Velvet Renewal facial",
-        "hy": ""
-      },
-      "price": "6200 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Омолаживает, улучшает состояние кожи, укрепляет ее защитные системы. Подходит для мужчин и женщин. Всесезонный, для любого типа кожи.",
-        "en": "Омолаживает, улучшает состояние кожи, укрепляет ее защитные системы. Подходит для мужчин и женщин. Всесезонный, для любого типа кожи.",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-066",
+      "id": "service-095",
       "category": "Маникюр, педикюр",
       "title": {
-        "ru": "Парафинотерапия рук",
-        "en": "Hand paraffin treatment",
+        "ru": "Маникюр (классический, аппаратный, комбинированный)",
+        "en": "Manicure (classic / machine / combined)",
         "hy": ""
       },
-      "price": "800 ₽",
-      "duration": "",
+      "price": "1 700 ₽",
+      "duration": "1 ч",
+      "description": {
+        "ru": "Маникюр без покрытия",
+        "en": "Manicure without polish.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-094",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Маникюр мужской",
+        "en": "Men's manicure",
+        "hy": ""
+      },
+      "price": "1 800 ₽",
+      "duration": "1 ч",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-093",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Педикюр (классический, аппаратный, комбинированный)",
+        "en": "Pedicure (classic / machine / combined)",
+        "hy": ""
+      },
+      "price": "2 700 ₽",
+      "duration": "1 ч 30 мин",
+      "description": {
+        "ru": "Педикюр без покрытия",
+        "en": "Pedicure without polish.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-092",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Педикюр мужской",
+        "en": "Men's pedicure",
+        "hy": ""
+      },
+      "price": "2 800 ₽",
+      "duration": "1 ч 30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-091",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Маникюр комплекс гель-лак",
+        "en": "Complete gel manicure",
+        "hy": ""
+      },
+      "price": "3 400 ₽",
+      "duration": "2 ч",
+      "description": {
+        "ru": "Включает в себя снятие гель-лака, маникюр и покрытие гель-лаком",
+        "en": "Includes gel polish removal, a manicure, and gel polish application.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-090",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Маникюр комплекс френч",
+        "en": "Complete French manicure",
+        "hy": ""
+      },
+      "price": "3 900 ₽",
+      "duration": "2 ч 30 мин",
+      "description": {
+        "ru": "Включает в себя снятие гель-лака, маникюр и покрытие гель-лаком френч",
+        "en": "Includes gel polish removal, a manicure, and French gel polish.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-089",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Педикюр комплекс гель-лак",
+        "en": "Complete gel pedicure",
+        "hy": ""
+      },
+      "price": "4 300 ₽",
+      "duration": "2 ч",
+      "description": {
+        "ru": "Включает в себя снятие гель-лака, педикюр и покрытие гель-лаком",
+        "en": "Includes gel polish removal, a pedicure, and gel polish application.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-088",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Педикюр комплекс френч",
+        "en": "Complete French pedicure",
+        "hy": ""
+      },
+      "price": "4 700 ₽",
+      "duration": "2 ч",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-087",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Обработка пальцев ног",
+        "en": "Toe treatment",
+        "hy": ""
+      },
+      "price": "2 000 ₽",
+      "duration": "1 ч",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-086",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Обработка стопы",
+        "en": "Foot treatment",
+        "hy": ""
+      },
+      "price": "1 700 ₽",
+      "duration": "30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-085",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Сложный педикюр 1 категория",
+        "en": "Advanced pedicure — category 1",
+        "hy": ""
+      },
+      "price": "3 500 ₽",
+      "duration": "1 ч 30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-084",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Сложный педикюр 2 категория",
+        "en": "Advanced pedicure — category 2",
+        "hy": ""
+      },
+      "price": "4 000 ₽",
+      "duration": "1 ч 30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-083",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Сложный педикюр 3 категория",
+        "en": "Advanced pedicure — category 3",
+        "hy": ""
+      },
+      "price": "4 500 ₽",
+      "duration": "2 ч",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-082",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Маникюр детский",
+        "en": "Children's manicure",
+        "hy": ""
+      },
+      "price": "1 000 ₽",
+      "duration": "45 мин",
+      "description": {
+        "ru": "Дети до 7 лет",
+        "en": "For children under 7.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-081",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Педикюр детский",
+        "en": "Children's pedicure",
+        "hy": ""
+      },
+      "price": "1 800 ₽",
+      "duration": "1 ч",
+      "description": {
+        "ru": "Дети до 7 лет",
+        "en": "For children under 7.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-074",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Коррекция гель",
+        "en": "Gel correction",
+        "hy": ""
+      },
+      "price": "2 500 ₽",
+      "duration": "2 ч",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-073",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Укрепление гелем/акрилом",
+        "en": "Gel / acrylic strengthening",
+        "hy": ""
+      },
+      "price": "2 000 ₽",
+      "duration": "1 ч",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-069",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Омбре",
+        "en": "Ombre nail design",
+        "hy": ""
+      },
+      "price": "1 500 ₽",
+      "duration": "30 мин",
+      "description": {
+        "ru": "За 10 ногтей",
+        "en": "For ten nails.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-068",
+      "category": "Маникюр, педикюр",
+      "title": {
+        "ru": "Дизайн ногтей (1 ноготь)",
+        "en": "Nail design (1 nail)",
+        "hy": ""
+      },
+      "price": "150 ₽",
+      "duration": "5 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -1919,7 +1883,7 @@
         "hy": ""
       },
       "price": "400 ₽",
-      "duration": "",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -1928,168 +1892,15 @@
       "variants": []
     },
     {
-      "id": "service-068",
+      "id": "service-066",
       "category": "Маникюр, педикюр",
       "title": {
-        "ru": "Дизайн ногтей (1 ноготь)",
-        "en": "Nail design (1 nail)",
-        "hy": ""
-      },
-      "price": "150 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-069",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Омбре",
-        "en": "Ombre nail design",
-        "hy": ""
-      },
-      "price": "1500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "За 10 ногтей",
-        "en": "За 10 ногтей",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-070",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Наращивание длинных ногтей (1 ноготь)",
-        "en": "Long nail extension (1 nail)",
-        "hy": ""
-      },
-      "price": "600 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-071",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Наращивание ногтей средняя длина (1 ноготь)",
-        "en": "Medium nail extension (1 nail)",
-        "hy": ""
-      },
-      "price": "500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-072",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Наращивание ногтей короткая длина (1 ноготь)",
-        "en": "Short nail extension (1 nail)",
-        "hy": ""
-      },
-      "price": "400 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-073",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Укрепление гелем/акрилом",
-        "en": "Gel / acrylic strengthening",
-        "hy": ""
-      },
-      "price": "2000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-074",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Коррекция гель",
-        "en": "Gel correction",
-        "hy": ""
-      },
-      "price": "2500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-075",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Снятие наращённых ногтей",
-        "en": "Nail extension removal",
-        "hy": ""
-      },
-      "price": "1000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-076",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Снятие лака",
-        "en": "Nail polish removal",
-        "hy": ""
-      },
-      "price": "300 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-077",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Снятие гель-лака",
-        "en": "Gel polish removal",
+        "ru": "Парафинотерапия рук",
+        "en": "Hand paraffin treatment",
         "hy": ""
       },
       "price": "800 ₽",
-      "duration": "",
+      "duration": "30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2098,15 +1909,15 @@
       "variants": []
     },
     {
-      "id": "service-078",
+      "id": "yc-067",
       "category": "Маникюр, педикюр",
       "title": {
-        "ru": "Покрытие лак под кутикулу",
-        "en": "Precision nail polish",
+        "ru": "Восстановление ногтей IBX",
+        "en": "IBX nail restoration",
         "hy": ""
       },
-      "price": "700 ₽",
-      "duration": "",
+      "price": "600 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2115,15 +1926,49 @@
       "variants": []
     },
     {
-      "id": "service-079",
-      "category": "Маникюр, педикюр",
+      "id": "service-065",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Покрытие гель-лак под кутикулу френч",
-        "en": "French gel polish",
+        "ru": "Уход \"Бархатное возрождение\"",
+        "en": "Velvet Renewal facial",
         "hy": ""
       },
-      "price": "2200 ₽",
-      "duration": "",
+      "price": "6 200 ₽",
+      "duration": "1 ч 15 мин",
+      "description": {
+        "ru": "Всесезонный уход для мужчин и женщин с любым типом кожи. В карточке салона заявлены улучшение состояния и внешнего вида кожи, омолаживающий эффект и поддержка её защитных функций.",
+        "en": "An all-season treatment for men and women with any skin type. The salon describes benefits for skin condition and appearance, rejuvenation, and support of the skin's protective functions.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-064",
+      "category": "Косметология уход",
+      "title": {
+        "ru": "Уход \"Женский каприз\"",
+        "en": "Women's Choice facial",
+        "hy": ""
+      },
+      "price": "6 500 ₽",
+      "duration": "1 ч 30 мин",
+      "description": {
+        "ru": "Очищение и подготовка кожи, короткий массаж лица, персиковый пилинг PEACH PEEL, альгинатная маска с витаминизированной или ботулоподобной сывороткой, завершающее средство.",
+        "en": "Skin cleansing and preparation, a short facial massage, a PEACH PEEL treatment, an alginate mask with a vitamin-enriched or botulinum-like serum, and a finishing product.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-063",
+      "category": "Косметология уход",
+      "title": {
+        "ru": "Уход \"Anti-Age\"",
+        "en": "Anti-age facial",
+        "hy": ""
+      },
+      "price": "5 000 ₽",
+      "duration": "1 ч",
       "description": {
         "ru": "",
         "en": "",
@@ -2132,15 +1977,32 @@
       "variants": []
     },
     {
-      "id": "service-080",
-      "category": "Маникюр, педикюр",
+      "id": "service-062",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Покрытие гель-лак под кутикулу",
-        "en": "Gel polish",
+        "ru": "Уход \"Восстановление и сияние\"",
+        "en": "Repair & Glow facial",
         "hy": ""
       },
-      "price": "1700 ₽",
-      "duration": "",
+      "price": "6 000 ₽",
+      "duration": "1 ч",
+      "description": {
+        "ru": "Базовый комплексный уход, который салон также предлагает перед мероприятием. В карточке заявлены улучшение цвета лица и возвращение сияния, увлажнение, питание, поддержка защитного барьера, очищение пор и уменьшение ороговения, эффект подтяжки и уменьшение отёчности, в том числе вокруг глаз.",
+        "en": "A comprehensive treatment also offered before events. The salon describes improved complexion and radiance, hydration and nourishment, skin-barrier support, pore cleansing, reduced dead skin, a lifting effect, and reduced puffiness including around the eyes.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-061",
+      "category": "Косметология уход",
+      "title": {
+        "ru": "РФ-лифтинг периорбитальной зоны",
+        "en": "RF lifting: eye area",
+        "hy": ""
+      },
+      "price": "2 000 ₽",
+      "duration": "20 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2149,49 +2011,15 @@
       "variants": []
     },
     {
-      "id": "service-081",
-      "category": "Маникюр, педикюр",
+      "id": "service-060",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Педикюр детский",
-        "en": "Children's pedicure",
+        "ru": "РФ-лифтинг лица",
+        "en": "RF face lifting",
         "hy": ""
       },
-      "price": "1800 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Дети до 7 лет",
-        "en": "Дети до 7 лет",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-082",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Маникюр детский",
-        "en": "Children's manicure",
-        "hy": ""
-      },
-      "price": "1000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Дети до 7 лет",
-        "en": "Дети до 7 лет",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-083",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Сложный педикюр 3 категория",
-        "en": "Advanced pedicure — category 3",
-        "hy": ""
-      },
-      "price": "4500 ₽",
-      "duration": "",
+      "price": "4 000 ₽",
+      "duration": "30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2200,15 +2028,15 @@
       "variants": []
     },
     {
-      "id": "service-084",
-      "category": "Маникюр, педикюр",
+      "id": "service-059",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Сложный педикюр 2 категория",
-        "en": "Advanced pedicure — category 2",
+        "ru": "РФ-лифтинг лицо+шея",
+        "en": "RF lifting: face & neck",
         "hy": ""
       },
-      "price": "4000 ₽",
-      "duration": "",
+      "price": "5 200 ₽",
+      "duration": "40 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2217,15 +2045,15 @@
       "variants": []
     },
     {
-      "id": "service-085",
-      "category": "Маникюр, педикюр",
+      "id": "service-058",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Сложный педикюр 1 категория",
-        "en": "Advanced pedicure — category 1",
+        "ru": "РФ-лифтинг шея+декольте",
+        "en": "RF lifting: neck & décolletage",
         "hy": ""
       },
-      "price": "3500 ₽",
-      "duration": "",
+      "price": "3 000 ₽",
+      "duration": "30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2234,15 +2062,15 @@
       "variants": []
     },
     {
-      "id": "service-086",
-      "category": "Маникюр, педикюр",
+      "id": "yc-076",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Обработка стопы",
-        "en": "Foot treatment",
+        "ru": "РФ-кавитация (антицеллюлитная программа)",
+        "en": "RF cavitation (anti-cellulite treatment)",
         "hy": ""
       },
-      "price": "1700 ₽",
-      "duration": "",
+      "price": "5 000 ₽",
+      "duration": "1 ч",
       "description": {
         "ru": "",
         "en": "",
@@ -2251,15 +2079,15 @@
       "variants": []
     },
     {
-      "id": "service-087",
-      "category": "Маникюр, педикюр",
+      "id": "service-057",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Обработка пальцев ног",
-        "en": "Toe treatment",
+        "ru": "Микротоковая терапия лица",
+        "en": "Microcurrent face treatment",
         "hy": ""
       },
-      "price": "2000 ₽",
-      "duration": "",
+      "price": "4 000 ₽",
+      "duration": "1 ч",
       "description": {
         "ru": "",
         "en": "",
@@ -2268,83 +2096,15 @@
       "variants": []
     },
     {
-      "id": "service-088",
-      "category": "Маникюр, педикюр",
+      "id": "service-056",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Педикюр комплекс френч",
-        "en": "Complete French pedicure",
+        "ru": "Микротоковая терапия периорбитальной зоны",
+        "en": "Microcurrent eye area treatment",
         "hy": ""
       },
-      "price": "4700 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Включает в себя снятие гель-лака, педикюр и покрытие гель-лаком френч",
-        "en": "Включает в себя снятие гель-лака, педикюр и покрытие гель-лаком френч",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-089",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Педикюр комплекс гель-лак",
-        "en": "Complete gel pedicure",
-        "hy": ""
-      },
-      "price": "4300 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Включает в себя снятие гель-лака, педикюр и покрытие гель-лаком",
-        "en": "Включает в себя снятие гель-лака, педикюр и покрытие гель-лаком",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-090",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Маникюр комплекс френч",
-        "en": "Complete French manicure",
-        "hy": ""
-      },
-      "price": "3900 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Включает в себя снятие гель-лака, маникюр и покрытие гель-лаком френч",
-        "en": "Включает в себя снятие гель-лака, маникюр и покрытие гель-лаком френч",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-091",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Маникюр комплекс гель-лак",
-        "en": "Complete gel manicure",
-        "hy": ""
-      },
-      "price": "3400 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Включает в себя снятие гель-лака, маникюр и покрытие гель-лаком",
-        "en": "Включает в себя снятие гель-лака, маникюр и покрытие гель-лаком",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-092",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Педикюр мужской",
-        "en": "Men's pedicure",
-        "hy": ""
-      },
-      "price": "2800 ₽",
-      "duration": "",
+      "price": "2 000 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2353,32 +2113,15 @@
       "variants": []
     },
     {
-      "id": "service-093",
-      "category": "Маникюр, педикюр",
+      "id": "service-055",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Педикюр (классический, аппаратный, комбинированный)",
-        "en": "Pedicure (classic / machine / combined)",
+        "ru": "Маска кремовая (по типу кожи)",
+        "en": "Cream mask (by skin type)",
         "hy": ""
       },
-      "price": "2700 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Педикюр без покрытия",
-        "en": "Педикюр без покрытия",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-094",
-      "category": "Маникюр, педикюр",
-      "title": {
-        "ru": "Маникюр мужской",
-        "en": "Men's manicure",
-        "hy": ""
-      },
-      "price": "1800 ₽",
-      "duration": "",
+      "price": "800 ₽",
+      "duration": "20 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2387,100 +2130,15 @@
       "variants": []
     },
     {
-      "id": "service-095",
-      "category": "Маникюр, педикюр",
+      "id": "service-054",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Маникюр (классический, аппаратный, комбинированный)",
-        "en": "Manicure (classic / machine / combined)",
+        "ru": "Маска пластифицирующая (по типу кожи)",
+        "en": "Alginate mask (by skin type)",
         "hy": ""
       },
-      "price": "1700 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Маникюр без покрытия",
-        "en": "Маникюр без покрытия",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-096",
-      "category": "Депиляция воском",
-      "title": {
-        "ru": "Депиляция комплекс: глубокое бикини+подмышки+бедра+голени",
-        "en": "Waxing package: Brazilian bikini+underarms+thighs+lower legs",
-        "hy": ""
-      },
-      "price": "5300 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Услуга для женщин",
-        "en": "Услуга для женщин",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-097",
-      "category": "Депиляция воском",
-      "title": {
-        "ru": "Депиляция комплекс: глубокое бикини+подмышки+голени",
-        "en": "Waxing package: Brazilian bikini+underarms+lower legs",
-        "hy": ""
-      },
-      "price": "4000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Услуга для женщин",
-        "en": "Услуга для женщин",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-098",
-      "category": "Депиляция воском",
-      "title": {
-        "ru": "Депиляция комплекс: глубокое бикини+подмышки",
-        "en": "Waxing package: Brazilian bikini+underarms",
-        "hy": ""
-      },
-      "price": "3000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Услуга для женщин",
-        "en": "Услуга для женщин",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-099",
-      "category": "Депиляция воском",
-      "title": {
-        "ru": "Депиляция ягодицы",
-        "en": "Waxing buttocks",
-        "hy": ""
-      },
-      "price": "1800 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Услуга для женщин",
-        "en": "Услуга для женщин",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-100",
-      "category": "Депиляция воском",
-      "title": {
-        "ru": "Депиляция спина",
-        "en": "Waxing back",
-        "hy": ""
-      },
-      "price": "1800 ₽",
-      "duration": "",
+      "price": "1 200 ₽",
+      "duration": "20 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2489,15 +2147,15 @@
       "variants": []
     },
     {
-      "id": "service-101",
-      "category": "Депиляция воском",
+      "id": "service-053",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция поясница",
-        "en": "Waxing lower back",
+        "ru": "Карбокситерапия",
+        "en": "Carboxytherapy",
         "hy": ""
       },
-      "price": "1000 ₽",
-      "duration": "",
+      "price": "4 000 ₽",
+      "duration": "30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2506,49 +2164,15 @@
       "variants": []
     },
     {
-      "id": "service-102",
-      "category": "Депиляция воском",
+      "id": "service-052",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция бикини глубокое",
-        "en": "Waxing Brazilian bikini",
+        "ru": "Миндальный пилинг",
+        "en": "Mandelic acid peel",
         "hy": ""
       },
-      "price": "2800 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Услуга для женщин",
-        "en": "Услуга для женщин",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-103",
-      "category": "Депиляция воском",
-      "title": {
-        "ru": "Депиляция бикини классическое",
-        "en": "Waxing bikini line",
-        "hy": ""
-      },
-      "price": "2000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Услуга для женщин",
-        "en": "Услуга для женщин",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-104",
-      "category": "Депиляция воском",
-      "title": {
-        "ru": "Депиляция бедра+голени",
-        "en": "Waxing thighs+lower legs",
-        "hy": ""
-      },
-      "price": "2500 ₽",
-      "duration": "",
+      "price": "4 500 ₽",
+      "duration": "30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2557,15 +2181,32 @@
       "variants": []
     },
     {
-      "id": "service-105",
-      "category": "Депиляция воском",
+      "id": "service-051",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция бедра",
-        "en": "Waxing thighs",
+        "ru": "Персиковый пилинг",
+        "en": "Peach peel",
         "hy": ""
       },
-      "price": "1500 ₽",
-      "duration": "",
+      "price": "4 500 ₽",
+      "duration": "30 мин",
+      "description": {
+        "ru": "Пилинг + маска по типу кожи",
+        "en": "Peel and a mask selected for your skin type.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "yc-084",
+      "category": "Косметология уход",
+      "title": {
+        "ru": "Пилинг Джесснера",
+        "en": "Jessner peel",
+        "hy": ""
+      },
+      "price": "4 500 ₽",
+      "duration": "30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2574,15 +2215,15 @@
       "variants": []
     },
     {
-      "id": "service-106",
-      "category": "Депиляция воском",
+      "id": "service-049",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция голени",
-        "en": "Waxing lower legs",
+        "ru": "Азелаиновый пилинг",
+        "en": "Azelaic acid peel",
         "hy": ""
       },
-      "price": "1200 ₽",
-      "duration": "",
+      "price": "5 400 ₽",
+      "duration": "30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2591,15 +2232,15 @@
       "variants": []
     },
     {
-      "id": "service-107",
-      "category": "Депиляция воском",
+      "id": "service-048",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция живот",
-        "en": "Waxing abdomen",
+        "ru": "Пилинг \"BioRePeelCl3\"",
+        "en": "BioRePeelCl3 peel",
         "hy": ""
       },
-      "price": "1000 ₽",
-      "duration": "",
+      "price": "5 800 ₽",
+      "duration": "30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2608,15 +2249,15 @@
       "variants": []
     },
     {
-      "id": "service-108",
-      "category": "Депиляция воском",
+      "id": "service-047",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция грудь",
-        "en": "Waxing chest",
+        "ru": "Пилинг \"Anti-Age\"",
+        "en": "Anti-age peel",
         "hy": ""
       },
-      "price": "2500 ₽",
-      "duration": "",
+      "price": "5 400 ₽",
+      "duration": "30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2625,15 +2266,15 @@
       "variants": []
     },
     {
-      "id": "service-109",
-      "category": "Депиляция воском",
+      "id": "service-046",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция подмышки",
-        "en": "Waxing underarms",
+        "ru": "Феруловый пилинг",
+        "en": "Ferulic peel",
         "hy": ""
       },
-      "price": "1000 ₽",
-      "duration": "",
+      "price": "5 400 ₽",
+      "duration": "30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2642,15 +2283,15 @@
       "variants": []
     },
     {
-      "id": "service-110",
-      "category": "Депиляция воском",
+      "id": "service-041",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция предплечье+плечо",
-        "en": "Waxing forearms+upper arms",
+        "ru": "Пилинг спины",
+        "en": "Back peel",
         "hy": ""
       },
-      "price": "1600 ₽",
-      "duration": "",
+      "price": "7 000 ₽",
+      "duration": "45 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2659,15 +2300,15 @@
       "variants": []
     },
     {
-      "id": "service-111",
-      "category": "Депиляция воском",
+      "id": "service-045",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция плечо",
-        "en": "Waxing upper arms",
+        "ru": "Массаж лица классический",
+        "en": "Classic face massage",
         "hy": ""
       },
-      "price": "1000 ₽",
-      "duration": "",
+      "price": "2 400 ₽",
+      "duration": "45 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2676,15 +2317,15 @@
       "variants": []
     },
     {
-      "id": "service-112",
-      "category": "Депиляция воском",
+      "id": "service-044",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция предплечье",
-        "en": "Waxing forearms",
+        "ru": "Массаж лица скульптурный",
+        "en": "Sculpting face massage",
         "hy": ""
       },
-      "price": "1000 ₽",
-      "duration": "",
+      "price": "3 800 ₽",
+      "duration": "1 ч",
       "description": {
         "ru": "",
         "en": "",
@@ -2693,15 +2334,15 @@
       "variants": []
     },
     {
-      "id": "service-113",
-      "category": "Депиляция воском",
+      "id": "service-043",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция лицо",
-        "en": "Waxing face",
+        "ru": "Массаж Гуаша",
+        "en": "Gua Sha massage",
         "hy": ""
       },
-      "price": "1500 ₽",
-      "duration": "",
+      "price": "3 200 ₽",
+      "duration": "40 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2710,15 +2351,15 @@
       "variants": []
     },
     {
-      "id": "service-114",
-      "category": "Депиляция воском",
+      "id": "service-042",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция нос",
-        "en": "Waxing nose",
+        "ru": "Чистка лица ультразвуковая",
+        "en": "Ultrasonic facial cleansing",
         "hy": ""
       },
-      "price": "700 ₽",
-      "duration": "",
+      "price": "3 800 ₽",
+      "duration": "1 ч",
       "description": {
         "ru": "",
         "en": "",
@@ -2727,15 +2368,15 @@
       "variants": []
     },
     {
-      "id": "service-115",
-      "category": "Депиляция воском",
+      "id": "service-040",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция подбородок",
-        "en": "Waxing chin",
+        "ru": "Чистка лица для чувствительной кожи и кожи с признаками купероза",
+        "en": "Sensitive-skin facial cleansing",
         "hy": ""
       },
-      "price": "700 ₽",
-      "duration": "",
+      "price": "6 000 ₽",
+      "duration": "1 ч 45 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2744,15 +2385,32 @@
       "variants": []
     },
     {
-      "id": "service-116",
-      "category": "Депиляция воском",
+      "id": "service-039",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Депиляция верхняя губа",
-        "en": "Waxing верхняя lipsа",
+        "ru": "Чистка для проблемной кожи COMODEX",
+        "en": "COMODEX acne-prone skin cleansing",
         "hy": ""
       },
-      "price": "700 ₽",
-      "duration": "",
+      "price": "6 000 ₽",
+      "duration": "1 ч 45 мин",
+      "description": {
+        "ru": "Подходит для подростков с 11 лет",
+        "en": "Suitable for teenagers aged 11 and over.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-038",
+      "category": "Косметология уход",
+      "title": {
+        "ru": "Чистка зоны декольте",
+        "en": "Décolletage cleansing",
+        "hy": ""
+      },
+      "price": "4 000 ₽",
+      "duration": "1 ч",
       "description": {
         "ru": "",
         "en": "",
@@ -2761,15 +2419,15 @@
       "variants": []
     },
     {
-      "id": "service-117",
-      "category": "Перманентный макияж",
+      "id": "service-037",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Удаление перманентного макияжа ремувером",
-        "en": "Permanent makeup removal",
+        "ru": "Чистка спины",
+        "en": "Back cleansing treatment",
         "hy": ""
       },
-      "price": "9000 ₽",
-      "duration": "",
+      "price": "8 000 ₽",
+      "duration": "1 ч 30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2778,117 +2436,15 @@
       "variants": []
     },
     {
-      "id": "service-118",
-      "category": "Перманентный макияж",
+      "id": "service-036",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Рефреш перманентного макияжа межресничного пространства",
-        "en": "Permanent makeup refresh lash line",
+        "ru": "Дарсонваль лица",
+        "en": "Darsonval face treatment",
         "hy": ""
       },
-      "price": "9000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Обновление работы нашего мастера в течение года после первичной процедуры",
-        "en": "Обновление работы нашего мастера в течение года после первичной процедуры",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-119",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Рефреш перманентного макияжа стрелок с растушевкой",
-        "en": "Permanent makeup refresh shaded eyeliner",
-        "hy": ""
-      },
-      "price": "10000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Обновление работы нашего мастера в течение года после первичной процедуры",
-        "en": "Обновление работы нашего мастера в течение года после первичной процедуры",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-120",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Рефреш перманентного макияжа губ",
-        "en": "Permanent makeup refresh lips",
-        "hy": ""
-      },
-      "price": "10000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Обновление работы нашего мастера в течение года после первичной процедуры",
-        "en": "Обновление работы нашего мастера в течение года после первичной процедуры",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-121",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Рефреш перманентного макияжа бровей (волосковая техника + напыление)",
-        "en": "Permanent makeup refresh brows (hair-stroke & powder technique)",
-        "hy": ""
-      },
-      "price": "19500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Обновление работы нашего мастера в течение года после первичной процедуры",
-        "en": "Обновление работы нашего мастера в течение года после первичной процедуры",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-122",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Рефреш перманентного макияжа бровей (волосковая техника)",
-        "en": "Permanent makeup refresh brows (hair-stroke technique)",
-        "hy": ""
-      },
-      "price": "14500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Обновление работы нашего мастера в течение года после первичной процедуры",
-        "en": "Обновление работы нашего мастера в течение года после первичной процедуры",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-123",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Рефреш перманентного макияжа бровей",
-        "en": "Permanent makeup refresh brows",
-        "hy": ""
-      },
-      "price": "10000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Обновление работы нашего мастера в течение года после первичной процедуры",
-        "en": "Обновление работы нашего мастера в течение года после первичной процедуры",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-124",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Коррекция перманентного макияжа межресничного пространства",
-        "en": "Permanent makeup correction lash line",
-        "hy": ""
-      },
-      "price": "8500 ₽",
-      "duration": "",
+      "price": "1 000 ₽",
+      "duration": "20 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -2897,382 +2453,15 @@
       "variants": []
     },
     {
-      "id": "service-125",
-      "category": "Перманентный макияж",
+      "id": "service-035",
+      "category": "Косметология уход",
       "title": {
-        "ru": "Коррекция перманентного макияжа стрелок с растушевкой",
-        "en": "Permanent makeup correction shaded eyeliner",
-        "hy": ""
-      },
-      "price": "9500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-126",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Коррекция перманентного макияжа губ",
-        "en": "Permanent makeup correction lips",
-        "hy": ""
-      },
-      "price": "9500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-127",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Коррекция перманентного макияжа бровей (волосковая техника + напыление)",
-        "en": "Permanent makeup correction brows (hair-stroke & powder technique)",
-        "hy": ""
-      },
-      "price": "18000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-128",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Коррекция перманентного макияжа бровей (волосковая техника)",
-        "en": "Permanent makeup correction brows (hair-stroke technique)",
-        "hy": ""
-      },
-      "price": "12500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-129",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Коррекция перманентного макияжа бровей",
-        "en": "Permanent makeup correction brows",
-        "hy": ""
-      },
-      "price": "9500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-130",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Перманентный макияж межресничного пространства",
-        "en": "Permanent makeup lash line",
-        "hy": ""
-      },
-      "price": "10000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Консультация с мастером перед записью на процедуру обязательна",
-        "en": "Консультация с мастером перед записью на процедуру обязательна",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-131",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Перманентный макияж стрелок с растушевкой",
-        "en": "Permanent makeup shaded eyeliner",
-        "hy": ""
-      },
-      "price": "11000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Консультация с мастером перед записью на процедуру обязательна",
-        "en": "Консультация с мастером перед записью на процедуру обязательна",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-132",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Перманентный макияж губ",
-        "en": "Permanent makeup lips",
-        "hy": ""
-      },
-      "price": "11000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Консультация с мастером перед записью на процедуру обязательна",
-        "en": "Консультация с мастером перед записью на процедуру обязательна",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-133",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Перманентный макияж бровей (волосковая техника + напыление)",
-        "en": "Permanent makeup brows (hair-stroke & powder technique)",
-        "hy": ""
-      },
-      "price": "20500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Консультация с мастером перед записью на процедуру обязательна",
-        "en": "Консультация с мастером перед записью на процедуру обязательна",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-134",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Перманентный макияж бровей (волосковая техника)",
-        "en": "Permanent makeup brows (hair-stroke technique)",
-        "hy": ""
-      },
-      "price": "16000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Консультация с мастером перед записью на процедуру обязательна",
-        "en": "Консультация с мастером перед записью на процедуру обязательна",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-135",
-      "category": "Перманентный макияж",
-      "title": {
-        "ru": "Перманентный макияж бровей",
-        "en": "Permanent makeup brows",
-        "hy": ""
-      },
-      "price": "11000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Консультация с мастером перед записью на процедуру обязательна",
-        "en": "Консультация с мастером перед записью на процедуру обязательна",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-136",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Коса французская",
-        "en": "French braid",
-        "hy": ""
-      },
-      "price": "700 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-137",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Уход MATRIX",
-        "en": "MATRIX hair treatment",
-        "hy": ""
-      },
-      "price": "1500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-138",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Укладка вечерняя",
-        "en": "Evening hair styling",
-        "hy": ""
-      },
-      "price": "5000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": [
-        {
-          "label": {
-            "ru": "Средние волосы",
-            "en": "Medium hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "3500 ₽"
-        },
-        {
-          "label": {
-            "ru": "Длинные волосы",
-            "en": "Long hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "5000 ₽"
-        }
-      ],
-      "variantType": "length"
-    },
-    {
-      "id": "service-140",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Укладка",
-        "en": "Hair styling",
-        "hy": ""
-      },
-      "price": "2500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": [
-        {
-          "label": {
-            "ru": "Короткие волосы",
-            "en": "Short hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "2000 ₽"
-        },
-        {
-          "label": {
-            "ru": "Средние волосы",
-            "en": "Medium hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "2300 ₽"
-        },
-        {
-          "label": {
-            "ru": "Длинные волосы",
-            "en": "Long hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "2500 ₽"
-        }
-      ],
-      "variantType": "length"
-    },
-    {
-      "id": "service-143",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Сушка по форме",
-        "en": "Hair blow-dry styling",
-        "hy": ""
-      },
-      "price": "1600 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": [
-        {
-          "label": {
-            "ru": "Короткие волосы",
-            "en": "Short hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "1200 ₽"
-        },
-        {
-          "label": {
-            "ru": "Средние волосы",
-            "en": "Medium hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "1400 ₽"
-        },
-        {
-          "label": {
-            "ru": "Длинные волосы",
-            "en": "Long hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "1600 ₽"
-        }
-      ],
-      "variantType": "length"
-    },
-    {
-      "id": "service-146",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Стрижка детская",
-        "en": "Children's haircut",
-        "hy": ""
-      },
-      "price": "1500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "Дети до 7 лет",
-        "en": "Дети до 7 лет",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-147",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Коррекция челки",
-        "en": "Fringe trim",
+        "ru": "Дарсонваль головы",
+        "en": "Darsonval scalp treatment",
         "hy": ""
       },
       "price": "500 ₽",
-      "duration": "",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3281,78 +2470,15 @@
       "variants": []
     },
     {
-      "id": "service-148",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Подравнивание (стрижка одним срезом)",
-        "en": "One-length trim",
-        "hy": ""
-      },
-      "price": "1500 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": []
-    },
-    {
-      "id": "service-149",
-      "category": "Парикмахерские услуги женщины",
-      "title": {
-        "ru": "Стрижка с укладкой",
-        "en": "Haircut & styling",
-        "hy": ""
-      },
-      "price": "3000 ₽",
-      "duration": "",
-      "description": {
-        "ru": "",
-        "en": "",
-        "hy": ""
-      },
-      "variants": [
-        {
-          "label": {
-            "ru": "Короткие волосы",
-            "en": "Short hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "2500 ₽"
-        },
-        {
-          "label": {
-            "ru": "Средние волосы",
-            "en": "Medium hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "2700 ₽"
-        },
-        {
-          "label": {
-            "ru": "Длинные волосы",
-            "en": "Long hair",
-            "hy": ""
-          },
-          "duration": "",
-          "price": "3000 ₽"
-        }
-      ],
-      "variantType": "length"
-    },
-    {
-      "id": "service-152",
+      "id": "service-164",
       "category": "Брови, ресницы, уши",
       "title": {
-        "ru": "Прокол крыла носа (1 шт+серьга)",
-        "en": "Nose piercing (incl. jewelry)",
+        "ru": "Коррекция бровей",
+        "en": "Brow correction",
         "hy": ""
       },
-      "price": "3500 ₽",
-      "duration": "",
+      "price": "1 000 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3361,15 +2487,15 @@
       "variants": []
     },
     {
-      "id": "service-153",
+      "id": "service-163",
       "category": "Брови, ресницы, уши",
       "title": {
-        "ru": "Прокол ушей (2 шт+серьги)",
-        "en": "Ear piercing (2, incl. jewelry)",
+        "ru": "Форма бровей",
+        "en": "Brow shaping",
         "hy": ""
       },
-      "price": "2500 ₽",
-      "duration": "",
+      "price": "1 200 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3378,15 +2504,15 @@
       "variants": []
     },
     {
-      "id": "service-154",
+      "id": "service-162",
       "category": "Брови, ресницы, уши",
       "title": {
-        "ru": "Прокол ушей (1 шт+серьги)",
-        "en": "Ear piercing (1, incl. jewelry)",
+        "ru": "Окрашивание бровей краской",
+        "en": "Brow tinting",
         "hy": ""
       },
-      "price": "1500 ₽",
-      "duration": "",
+      "price": "1 000 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3395,15 +2521,15 @@
       "variants": []
     },
     {
-      "id": "service-155",
+      "id": "service-161",
       "category": "Брови, ресницы, уши",
       "title": {
-        "ru": "Снятие наращённых ресниц",
-        "en": "Lash extension removal",
+        "ru": "Окрашивание бровей хной",
+        "en": "Henna brow tint",
         "hy": ""
       },
-      "price": "1000 ₽",
-      "duration": "",
+      "price": "1 300 ₽",
+      "duration": "30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3412,15 +2538,15 @@
       "variants": []
     },
     {
-      "id": "service-156",
+      "id": "service-160",
       "category": "Брови, ресницы, уши",
       "title": {
-        "ru": "Ламинирование ресниц",
-        "en": "Lash lift",
+        "ru": "Обесцвечивание бровей",
+        "en": "Brow lightening",
         "hy": ""
       },
-      "price": "3200 ₽",
-      "duration": "",
+      "price": "1 000 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3429,15 +2555,15 @@
       "variants": []
     },
     {
-      "id": "service-157",
+      "id": "service-159",
       "category": "Брови, ресницы, уши",
       "title": {
-        "ru": "Ламинирование бровей",
-        "en": "Brow lamination",
+        "ru": "Окрашивание ресниц",
+        "en": "Lash tinting",
         "hy": ""
       },
-      "price": "3200 ₽",
-      "duration": "",
+      "price": "1 000 ₽",
+      "duration": "20 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3454,24 +2580,24 @@
         "hy": ""
       },
       "price": "500 ₽",
-      "duration": "",
+      "duration": "5 мин",
       "description": {
-        "ru": "Масло для роста ресниц и бровей CC-oil, специально разработанное для роста ресниц и бровей, способствует укреплению ослабленных волосков, обеспечивает их ценными питательными веществами, поддерживает необходимый уровень увлажнения, препятствует вы...",
-        "en": "Масло для роста ресниц и бровей CC-oil, специально разработанное для роста ресниц и бровей, способствует укреплению ослабленных волосков, обеспечивает их ценными питательными веществами, поддерживает необходимый уровень увлажнения, препятствует вы...",
+        "ru": "Уход с маслом CC-oil на натуральных ингредиентах. Средство предназначено для питания, увлажнения и укрепления волосков. В карточке также заявлена поддержка их роста и уменьшение выпадения.",
+        "en": "Care using CC-oil with natural ingredients to nourish, moisturize, and strengthen brow and lash hairs. The salon also describes supporting growth and reducing shedding.",
         "hy": ""
       },
       "variants": []
     },
     {
-      "id": "service-159",
+      "id": "service-157",
       "category": "Брови, ресницы, уши",
       "title": {
-        "ru": "Окрашивание ресниц",
-        "en": "Lash tinting",
+        "ru": "Ламинирование бровей",
+        "en": "Brow lamination",
         "hy": ""
       },
-      "price": "1000 ₽",
-      "duration": "",
+      "price": "3 200 ₽",
+      "duration": "1 ч",
       "description": {
         "ru": "",
         "en": "",
@@ -3480,15 +2606,15 @@
       "variants": []
     },
     {
-      "id": "service-160",
+      "id": "service-156",
       "category": "Брови, ресницы, уши",
       "title": {
-        "ru": "Обесцвечивание бровей",
-        "en": "Brow lightening",
+        "ru": "Ламинирование ресниц",
+        "en": "Lash lift",
         "hy": ""
       },
-      "price": "1000 ₽",
-      "duration": "",
+      "price": "3 200 ₽",
+      "duration": "1 ч 15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3497,15 +2623,15 @@
       "variants": []
     },
     {
-      "id": "service-161",
+      "id": "service-155",
       "category": "Брови, ресницы, уши",
       "title": {
-        "ru": "Окрашивание бровей хной",
-        "en": "Henna brow tint",
+        "ru": "Снятие наращённых ресниц",
+        "en": "Lash extension removal",
         "hy": ""
       },
-      "price": "1300 ₽",
-      "duration": "",
+      "price": "1 000 ₽",
+      "duration": "20 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3514,15 +2640,15 @@
       "variants": []
     },
     {
-      "id": "service-162",
+      "id": "service-154",
       "category": "Брови, ресницы, уши",
       "title": {
-        "ru": "Окрашивание бровей краской",
-        "en": "Brow tinting",
+        "ru": "Прокол ушей (1 шт+серьги)",
+        "en": "Ear piercing (1, incl. jewelry)",
         "hy": ""
       },
-      "price": "1000 ₽",
-      "duration": "",
+      "price": "1 500 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3531,15 +2657,15 @@
       "variants": []
     },
     {
-      "id": "service-163",
+      "id": "service-153",
       "category": "Брови, ресницы, уши",
       "title": {
-        "ru": "Форма бровей",
-        "en": "Brow shaping",
+        "ru": "Прокол ушей (2 шт+серьги)",
+        "en": "Ear piercing (2, incl. jewelry)",
         "hy": ""
       },
-      "price": "1200 ₽",
-      "duration": "",
+      "price": "2 500 ₽",
+      "duration": "30 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3548,15 +2674,15 @@
       "variants": []
     },
     {
-      "id": "service-164",
+      "id": "service-152",
       "category": "Брови, ресницы, уши",
       "title": {
-        "ru": "Коррекция бровей",
-        "en": "Brow correction",
+        "ru": "Прокол крыла носа (1 шт+серьга)",
+        "en": "Nose piercing (incl. jewelry)",
         "hy": ""
       },
-      "price": "1000 ₽",
-      "duration": "",
+      "price": "3 500 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3565,15 +2691,15 @@
       "variants": []
     },
     {
-      "id": "service-165",
-      "category": "Парикмахерские услуги мужчины",
+      "id": "service-116",
+      "category": "Депиляция воском",
       "title": {
-        "ru": "Камуфляж",
-        "en": "Hair camouflage",
+        "ru": "Депиляция верхняя губа",
+        "en": "Waxing верхняя lipsа",
         "hy": ""
       },
-      "price": "1000 ₽",
-      "duration": "",
+      "price": "700 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3582,15 +2708,15 @@
       "variants": []
     },
     {
-      "id": "service-166",
-      "category": "Парикмахерские услуги мужчины",
+      "id": "yc-114",
+      "category": "Депиляция воском",
       "title": {
-        "ru": "Окантовка",
-        "en": "Hairline edging",
+        "ru": "Депиляция нижняя губа",
+        "en": "Lower lip waxing",
         "hy": ""
       },
-      "price": "800 ₽",
-      "duration": "",
+      "price": "700 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3599,15 +2725,15 @@
       "variants": []
     },
     {
-      "id": "service-167",
-      "category": "Парикмахерские услуги мужчины",
+      "id": "service-115",
+      "category": "Депиляция воском",
       "title": {
-        "ru": "Стрижка бороды машинкой",
-        "en": "Clipper beard trim",
+        "ru": "Депиляция подбородок",
+        "en": "Waxing chin",
         "hy": ""
       },
-      "price": "1000 ₽",
-      "duration": "",
+      "price": "700 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3616,15 +2742,15 @@
       "variants": []
     },
     {
-      "id": "service-168",
-      "category": "Парикмахерские услуги мужчины",
+      "id": "service-114",
+      "category": "Депиляция воском",
       "title": {
-        "ru": "Стрижка под 2 насадки",
-        "en": "Two-guard clipper cut",
+        "ru": "Депиляция нос",
+        "en": "Waxing nose",
         "hy": ""
       },
-      "price": "1500 ₽",
-      "duration": "",
+      "price": "700 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3633,15 +2759,15 @@
       "variants": []
     },
     {
-      "id": "service-169",
-      "category": "Парикмахерские услуги мужчины",
+      "id": "yc-117",
+      "category": "Депиляция воском",
       "title": {
-        "ru": "Стрижка под 1 насадку",
-        "en": "One-guard clipper cut",
+        "ru": "Депиляция уши",
+        "en": "Ear waxing",
         "hy": ""
       },
-      "price": "1200 ₽",
-      "duration": "",
+      "price": "700 ₽",
+      "duration": "15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3650,15 +2776,15 @@
       "variants": []
     },
     {
-      "id": "service-170",
-      "category": "Парикмахерские услуги мужчины",
+      "id": "service-113",
+      "category": "Депиляция воском",
       "title": {
-        "ru": "Стрижка мужская модельная удлиненная",
-        "en": "Men's extended style haircut",
+        "ru": "Депиляция лицо",
+        "en": "Waxing face",
         "hy": ""
       },
-      "price": "2500 ₽",
-      "duration": "",
+      "price": "1 500 ₽",
+      "duration": "45 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3667,15 +2793,508 @@
       "variants": []
     },
     {
-      "id": "service-171",
-      "category": "Парикмахерские услуги мужчины",
+      "id": "service-112",
+      "category": "Депиляция воском",
       "title": {
-        "ru": "Стрижка мужская модельная",
-        "en": "Men's style haircut",
+        "ru": "Депиляция предплечье",
+        "en": "Waxing forearms",
         "hy": ""
       },
-      "price": "2000 ₽",
-      "duration": "",
+      "price": "1 000 ₽",
+      "duration": "30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-111",
+      "category": "Депиляция воском",
+      "title": {
+        "ru": "Депиляция плечо",
+        "en": "Waxing upper arms",
+        "hy": ""
+      },
+      "price": "1 000 ₽",
+      "duration": "30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-110",
+      "category": "Депиляция воском",
+      "title": {
+        "ru": "Депиляция предплечье+плечо",
+        "en": "Waxing forearms+upper arms",
+        "hy": ""
+      },
+      "price": "1 600 ₽",
+      "duration": "45 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-109",
+      "category": "Депиляция воском",
+      "title": {
+        "ru": "Депиляция подмышки",
+        "en": "Waxing underarms",
+        "hy": ""
+      },
+      "price": "1 000 ₽",
+      "duration": "30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-108",
+      "category": "Депиляция воском",
+      "title": {
+        "ru": "Депиляция грудь",
+        "en": "Waxing chest",
+        "hy": ""
+      },
+      "price": "2 500 ₽",
+      "duration": "40 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-107",
+      "category": "Депиляция воском",
+      "title": {
+        "ru": "Депиляция живот",
+        "en": "Waxing abdomen",
+        "hy": ""
+      },
+      "price": "1 000 ₽",
+      "duration": "30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-106",
+      "category": "Депиляция воском",
+      "title": {
+        "ru": "Депиляция голени",
+        "en": "Waxing lower legs",
+        "hy": ""
+      },
+      "price": "1 200 ₽",
+      "duration": "30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-105",
+      "category": "Депиляция воском",
+      "title": {
+        "ru": "Депиляция бедра",
+        "en": "Waxing thighs",
+        "hy": ""
+      },
+      "price": "1 500 ₽",
+      "duration": "30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-104",
+      "category": "Депиляция воском",
+      "title": {
+        "ru": "Депиляция бедра+голени",
+        "en": "Waxing thighs+lower legs",
+        "hy": ""
+      },
+      "price": "2 500 ₽",
+      "duration": "45 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-103",
+      "category": "Депиляция воском",
+      "title": {
+        "ru": "Депиляция бикини классическое",
+        "en": "Waxing bikini line",
+        "hy": ""
+      },
+      "price": "2 000 ₽",
+      "duration": "30 мин",
+      "description": {
+        "ru": "Услуга для женщин",
+        "en": "For women.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-099",
+      "category": "Депиляция воском",
+      "title": {
+        "ru": "Депиляция ягодицы",
+        "en": "Waxing buttocks",
+        "hy": ""
+      },
+      "price": "1 800 ₽",
+      "duration": "30 мин",
+      "description": {
+        "ru": "Услуга для женщин",
+        "en": "For women.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-135",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Перманентный макияж бровей",
+        "en": "Permanent makeup brows",
+        "hy": ""
+      },
+      "price": "11 000 ₽",
+      "duration": "2 ч",
+      "description": {
+        "ru": "Консультация с мастером перед записью на процедуру обязательна",
+        "en": "A consultation with the specialist is required before booking the procedure.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-134",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Перманентный макияж бровей (волосковая техника)",
+        "en": "Permanent makeup brows (hair-stroke technique)",
+        "hy": ""
+      },
+      "price": "16 000 ₽",
+      "duration": "2 ч 30 мин",
+      "description": {
+        "ru": "Консультация с мастером перед записью на процедуру обязательна",
+        "en": "A consultation with the specialist is required before booking the procedure.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-133",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Перманентный макияж бровей (волосковая техника + напыление)",
+        "en": "Permanent makeup brows (hair-stroke & powder technique)",
+        "hy": ""
+      },
+      "price": "20 500 ₽",
+      "duration": "2 ч 30 мин",
+      "description": {
+        "ru": "Консультация с мастером перед записью на процедуру обязательна",
+        "en": "A consultation with the specialist is required before booking the procedure.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-132",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Перманентный макияж губ",
+        "en": "Permanent makeup lips",
+        "hy": ""
+      },
+      "price": "11 000 ₽",
+      "duration": "2 ч 30 мин",
+      "description": {
+        "ru": "Консультация с мастером перед записью на процедуру обязательна",
+        "en": "A consultation with the specialist is required before booking the procedure.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-131",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Перманентный макияж стрелок с растушевкой",
+        "en": "Permanent makeup shaded eyeliner",
+        "hy": ""
+      },
+      "price": "11 000 ₽",
+      "duration": "2 ч",
+      "description": {
+        "ru": "Консультация с мастером перед записью на процедуру обязательна",
+        "en": "A consultation with the specialist is required before booking the procedure.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-130",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Перманентный макияж межресничного пространства",
+        "en": "Permanent makeup lash line",
+        "hy": ""
+      },
+      "price": "10 000 ₽",
+      "duration": "1 ч 30 мин",
+      "description": {
+        "ru": "Консультация с мастером перед записью на процедуру обязательна",
+        "en": "A consultation with the specialist is required before booking the procedure.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-129",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Коррекция перманентного макияжа бровей",
+        "en": "Permanent makeup correction brows",
+        "hy": ""
+      },
+      "price": "9 500 ₽",
+      "duration": "1 ч 30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-128",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Коррекция перманентного макияжа бровей (волосковая техника)",
+        "en": "Permanent makeup correction brows (hair-stroke technique)",
+        "hy": ""
+      },
+      "price": "12 500 ₽",
+      "duration": "2 ч",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-127",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Коррекция перманентного макияжа бровей (волосковая техника + напыление)",
+        "en": "Permanent makeup correction brows (hair-stroke & powder technique)",
+        "hy": ""
+      },
+      "price": "18 000 ₽",
+      "duration": "2 ч",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-126",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Коррекция перманентного макияжа губ",
+        "en": "Permanent makeup correction lips",
+        "hy": ""
+      },
+      "price": "9 500 ₽",
+      "duration": "2 ч",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-125",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Коррекция перманентного макияжа стрелок с растушевкой",
+        "en": "Permanent makeup correction shaded eyeliner",
+        "hy": ""
+      },
+      "price": "9 500 ₽",
+      "duration": "1 ч 30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-124",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Коррекция перманентного макияжа межресничного пространства",
+        "en": "Permanent makeup correction lash line",
+        "hy": ""
+      },
+      "price": "8 500 ₽",
+      "duration": "1 ч 30 мин",
+      "description": {
+        "ru": "",
+        "en": "",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-123",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Рефреш перманентного макияжа бровей",
+        "en": "Permanent makeup refresh brows",
+        "hy": ""
+      },
+      "price": "10 000 ₽",
+      "duration": "1 ч 15 мин",
+      "description": {
+        "ru": "Обновление работы нашего мастера в течение года после первичной процедуры",
+        "en": "A refresh of our specialist's work within one year of the original procedure.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-122",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Рефреш перманентного макияжа бровей (волосковая техника)",
+        "en": "Permanent makeup refresh brows (hair-stroke technique)",
+        "hy": ""
+      },
+      "price": "14 500 ₽",
+      "duration": "1 ч 15 мин",
+      "description": {
+        "ru": "Обновление работы нашего мастера в течение года после первичной процедуры",
+        "en": "A refresh of our specialist's work within one year of the original procedure.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-121",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Рефреш перманентного макияжа бровей (волосковая техника + напыление)",
+        "en": "Permanent makeup refresh brows (hair-stroke & powder technique)",
+        "hy": ""
+      },
+      "price": "19 500 ₽",
+      "duration": "1 ч 15 мин",
+      "description": {
+        "ru": "Обновление работы нашего мастера в течение года после первичной процедуры",
+        "en": "A refresh of our specialist's work within one year of the original procedure.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-120",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Рефреш перманентного макияжа губ",
+        "en": "Permanent makeup refresh lips",
+        "hy": ""
+      },
+      "price": "10 000 ₽",
+      "duration": "1 ч 15 мин",
+      "description": {
+        "ru": "Обновление работы нашего мастера в течение года после первичной процедуры",
+        "en": "A refresh of our specialist's work within one year of the original procedure.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-119",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Рефреш перманентного макияжа стрелок с растушевкой",
+        "en": "Permanent makeup refresh shaded eyeliner",
+        "hy": ""
+      },
+      "price": "10 000 ₽",
+      "duration": "1 ч 15 мин",
+      "description": {
+        "ru": "Обновление работы нашего мастера в течение года после первичной процедуры",
+        "en": "A refresh of our specialist's work within one year of the original procedure.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-118",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Рефреш перманентного макияжа межресничного пространства",
+        "en": "Permanent makeup refresh lash line",
+        "hy": ""
+      },
+      "price": "9 000 ₽",
+      "duration": "1 ч 15 мин",
+      "description": {
+        "ru": "Обновление работы нашего мастера в течение года после первичной процедуры",
+        "en": "A refresh of our specialist's work within one year of the original procedure.",
+        "hy": ""
+      },
+      "variants": []
+    },
+    {
+      "id": "service-117",
+      "category": "Перманентный макияж",
+      "title": {
+        "ru": "Удаление перманентного макияжа ремувером",
+        "en": "Permanent makeup removal",
+        "hy": ""
+      },
+      "price": "9 000 ₽",
+      "duration": "1 ч 15 мин",
       "description": {
         "ru": "",
         "en": "",
@@ -3684,7 +3303,213 @@
       "variants": []
     }
   ],
-  "team": [],
+  "team": [
+    {
+      "id": "victoria-alena",
+      "name": {
+        "ru": "Алёна",
+        "en": "Alena",
+        "hy": ""
+      },
+      "role": {
+        "ru": "парикмахер-стилист",
+        "en": "Hair stylist",
+        "hy": ""
+      },
+      "about": {
+        "ru": "Алёна — парикмахер-стилист салона красоты VICTORY.",
+        "en": "Alena is a hair stylist at VICTORY beauty salon.",
+        "hy": ""
+      },
+      "photo": "master-alena-hair-stylist.webp",
+      "categories": [
+        "Парикмахерские услуги женщины",
+        "Окрашивание, завивка"
+      ],
+      "serviceIds": [],
+      "work": [],
+      "reviewIds": []
+    },
+    {
+      "id": "victoria-irina",
+      "name": {
+        "ru": "Ирина",
+        "en": "Irina",
+        "hy": ""
+      },
+      "role": {
+        "ru": "парикмахер-стилист",
+        "en": "Hair stylist",
+        "hy": ""
+      },
+      "about": {
+        "ru": "Ирина — парикмахер-стилист салона красоты VICTORY.",
+        "en": "Irina is a hair stylist at VICTORY beauty salon.",
+        "hy": ""
+      },
+      "photo": "master-irina-hair-stylist.webp",
+      "categories": [
+        "Парикмахерские услуги женщины",
+        "Окрашивание, завивка"
+      ],
+      "serviceIds": [],
+      "work": [],
+      "reviewIds": []
+    },
+    {
+      "id": "victoria-kristina",
+      "name": {
+        "ru": "Кристина",
+        "en": "Kristina",
+        "hy": ""
+      },
+      "role": {
+        "ru": "парикмахер-стилист",
+        "en": "Hair stylist",
+        "hy": ""
+      },
+      "about": {
+        "ru": "Кристина — парикмахер-стилист салона красоты VICTORY.",
+        "en": "Kristina is a hair stylist at VICTORY beauty salon.",
+        "hy": ""
+      },
+      "photo": "master-kristina-hair-stylist.webp",
+      "categories": [
+        "Парикмахерские услуги женщины",
+        "Окрашивание, завивка"
+      ],
+      "serviceIds": [],
+      "work": [],
+      "reviewIds": []
+    },
+    {
+      "id": "victoria-elena",
+      "name": {
+        "ru": "Елена",
+        "en": "Elena",
+        "hy": ""
+      },
+      "role": {
+        "ru": "парикмахер-стилист",
+        "en": "Hair stylist",
+        "hy": ""
+      },
+      "about": {
+        "ru": "Елена — парикмахер-стилист салона красоты VICTORY.",
+        "en": "Elena is a hair stylist at VICTORY beauty salon.",
+        "hy": ""
+      },
+      "photo": "master-elena-hair-stylist.webp",
+      "categories": [
+        "Парикмахерские услуги женщины",
+        "Окрашивание, завивка"
+      ],
+      "serviceIds": [],
+      "work": [],
+      "reviewIds": []
+    },
+    {
+      "id": "victoria-olesya",
+      "name": {
+        "ru": "Олеся",
+        "en": "Olesya",
+        "hy": ""
+      },
+      "role": {
+        "ru": "мастер ногтевого сервиса",
+        "en": "Nail technician",
+        "hy": ""
+      },
+      "about": {
+        "ru": "Олеся — мастер ногтевого сервиса салона красоты VICTORY.",
+        "en": "Olesya is a nail technician at VICTORY beauty salon.",
+        "hy": ""
+      },
+      "photo": "master-olesya-nail-master.webp",
+      "categories": [
+        "Маникюр, педикюр"
+      ],
+      "serviceIds": [],
+      "work": [],
+      "reviewIds": []
+    },
+    {
+      "id": "victoria-natalya",
+      "name": {
+        "ru": "Наталья",
+        "en": "Natalya",
+        "hy": ""
+      },
+      "role": {
+        "ru": "мастер ногтевого сервиса",
+        "en": "Nail technician",
+        "hy": ""
+      },
+      "about": {
+        "ru": "Наталья — мастер ногтевого сервиса салона красоты VICTORY.",
+        "en": "Natalya is a nail technician at VICTORY beauty salon.",
+        "hy": ""
+      },
+      "photo": "master-natalya-nail-master.webp",
+      "categories": [
+        "Маникюр, педикюр"
+      ],
+      "serviceIds": [],
+      "work": [],
+      "reviewIds": []
+    },
+    {
+      "id": "victoria-katerina",
+      "name": {
+        "ru": "Катерина",
+        "en": "Katerina",
+        "hy": ""
+      },
+      "role": {
+        "ru": "косметолог, мастер перманентного макияжа",
+        "en": "Cosmetologist and permanent makeup artist",
+        "hy": ""
+      },
+      "about": {
+        "ru": "Катерина — косметолог, мастер перманентного макияжа салона красоты VICTORY.",
+        "en": "Katerina is a cosmetologist and permanent makeup artist at VICTORY beauty salon.",
+        "hy": ""
+      },
+      "photo": "master-katerina-cosmetologist-permanent-makeup-master.webp",
+      "categories": [
+        "Косметология уход",
+        "Перманентный макияж"
+      ],
+      "serviceIds": [],
+      "work": [],
+      "reviewIds": []
+    },
+    {
+      "id": "victoria-valentina",
+      "name": {
+        "ru": "Валентина",
+        "en": "Valentina",
+        "hy": ""
+      },
+      "role": {
+        "ru": "косметик-эстетист",
+        "en": "Beauty aesthetician",
+        "hy": ""
+      },
+      "about": {
+        "ru": "Валентина — косметик-эстетист салона красоты VICTORY.",
+        "en": "Valentina is a beauty aesthetician at VICTORY beauty salon.",
+        "hy": ""
+      },
+      "photo": "master-valentina-cosmetic-esthetician.webp",
+      "categories": [
+        "Косметология уход"
+      ],
+      "serviceIds": [],
+      "work": [],
+      "reviewIds": []
+    }
+  ],
   "reviews": [
     {
       "id": "yandex-review-01",
