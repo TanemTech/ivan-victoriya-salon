@@ -18,9 +18,11 @@
     .replace(/([\d ])\s*[–—-]\s*(?=\d)/u,'$1–').replace(/ +/g,' ');
   const description=(service,lang)=>localize(service.description,lang).trim();
   function duration(value,lang){
-    const raw=localize(value,lang),m=raw.match(/^(\d+(?:[.,]\d+)?)\s*(мин(?:ут(?:а|ы)?)?|min(?:utes?)?|ч(?:ас(?:а|ов)?)?|h(?:ours?)?)\.?$/iu);
-    if(!m)return raw;
-    const n=Number(m[1].replace(',','.')),minutes=/^(мин|min)/iu.test(m[2])?n:n*60;
+    const raw=localize(value,lang).trim();
+    const simple=raw.match(/^(\d+(?:[.,]\d+)?)\s*(мин(?:ут(?:а|ы)?)?|min(?:utes?)?|ч(?:ас(?:а|ов)?)?|h(?:ours?)?)\.?$/iu);
+    const compound=raw.match(/^(\d+)\s*(?:ч(?:ас(?:а|ов)?)?|h(?:ours?)?)\.?\s*(\d+)\s*(?:мин(?:ут(?:а|ы)?)?|min(?:utes?)?)\.?$/iu);
+    if(!simple&&!compound)return raw;
+    const minutes=compound?Number(compound[1])*60+Number(compound[2]):Number(simple[1].replace(',','.'))*(/^(мин|min)/iu.test(simple[2])?1:60);
     const {min,hour}=words(lang);
     if(minutes<60)return minutes+' '+min;
     const hours=minutes/60;
@@ -45,14 +47,22 @@
     return format(low)+(high===low?'':'–'+format(high))+' '+currency;
   }
   function render(service,device,lang=language()){
-    const title=localize(service.title,lang).replace(/\u00ad/g,''),variants=(service.variants||[]).filter(v=>localize(v.label,lang)||localize(v.price,lang)||localize(v.duration,lang));
+    const title=localize(service.title,lang).replace(/\u00ad/g,'');
+    const titleParts=title.match(/^(.+?)\s+\(([^()]+)\)$/u);
+    const titleText=titleParts?.[1]||title;
+    const qualifier=titleParts?.[2]||'';
+    const subtitle=qualifier.charAt(0).toLocaleUpperCase(lang)+qualifier.slice(1);
+    const variants=(service.variants||[]).filter(v=>localize(v.label,lang)||localize(v.price,lang)||localize(v.duration,lang));
     const range=service.variantType==='length'?lengthPrice(variants,lang):'';
-    const copy=description(service,lang),price=range||localize(service.price,lang),time=duration(service.duration,lang);
+    const copy=description(service,lang),price=range||localize(service.price,lang);
+    const variantTimes=variants.map(variant=>duration(variant.duration,lang));
+    const commonTime=variantTimes.length&&variantTimes.every(time=>time===variantTimes[0])?variantTimes[0]:'';
+    const time=duration(service.duration,lang)||commonTime;
     const id='service-description-'+device+'-'+(service.profileId||'catalogue')+'-'+service.id;
     const copyLabels=words(lang),book=copyLabels.book;
-    const tariffRows=variants.map(variant=>{
+    const tariffRows=variants.map((variant,index)=>{
       const label=localize(variant.label,lang);
-      const time=duration(variant.duration,lang);
+      const time=variantTimes[index];
       const price=normalizePrice(localize(variant.price,lang));
       return '<div><dt>'+escape(label)+'</dt><dd>'+(time?'<span class="tanem-variant-duration">'+escape(time)+'</span>':'')+
         (price?'<span>'+escape(price)+'</span>':'')+'</dd></div>';
@@ -62,9 +72,9 @@
     const options=variants.length?'<details class="tanem-service-options"><summary><span class="tanem-options-label">'+escape(optionsLabel)+' +</span></summary><div class="tanem-options-panel">'+tariffs+'</div></details>':'';
     const prose=copy?'<div class="tanem-service-description"><p id="'+escape(id)+'">'+escape(copy)+'</p><button class="tanem-service-more" type="button" aria-expanded="false" aria-controls="'+escape(id)+'">'+copyLabels.more+'</button></div>':'';
     return '<article class="'+(device==='desktop'?'dct-service-card':'tn31-service-row')+' tanem-service-card" data-tanem-service-id="'+escape(service.id)+'" data-tanem-profile="'+escape(service.profileId||'catalogue')+'" data-tanem-layout="'+device+'" data-tanem-lang="'+lang+'">'+
-      '<div class="tanem-service-copy"><strong class="tanem-service-title '+(device==='desktop'?'dct-service-card-title':'tn31-service-name')+'">'+escape(title).replace(/([+/])/g,'$1<wbr>')+'</strong>'+
-      options+prose+'</div>'+
-      '<div class="tanem-service-side">'+(time?'<small class="tanem-service-duration">'+escape(time)+'</small>':'')+(price?priceMarkup(price,device):'<span class="tanem-service-price">'+book+'</span>')+'</div>'+
+      '<div class="tanem-service-copy"><strong class="tanem-service-title '+(device==='desktop'?'dct-service-card-title':'tn31-service-name')+'">'+escape(titleText).replace(/([+/])/g,'$1<wbr>')+'</strong>'+
+      (subtitle?'<div class="tanem-service-subtitle">'+escape(subtitle)+'</div>':'')+prose+options+'</div>'+
+      '<div class="tanem-service-side">'+(time?'<small class="tanem-service-duration">'+escape(time)+'</small>':'')+(price?priceMarkup(price,device):'<span class="tanem-service-price is-book">'+book+'</span>')+'</div>'+
       '<button class="tanem-service-book" type="button" '+(device==='desktop'?'data-service-book':'data-book-service')+' aria-label="'+book+': '+escape(title)+'"></button></article>';
   }
   function measure(card){

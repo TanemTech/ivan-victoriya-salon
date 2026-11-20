@@ -38,10 +38,10 @@ html.br-booting #salon-mobile,html.br-booting #salon-desktop-v1{visibility:hidde
 @media(prefers-reduced-motion:reduce){#brBootIntro{transition:none!important}}
 </style>
 <link rel="stylesheet" href="desktop.css?v=salon-20261003-v2" media="(hover:hover) and (pointer:fine), (min-width:1024px)">
-<link rel="stylesheet" href="salon-palette.css?v=salon-factory-v1" media="(hover:hover) and (pointer:fine), (min-width:1024px)">
+<link rel="stylesheet" href="salon-palette.css?v=victoria-service-layout-v1" media="(hover:hover) and (pointer:fine), (min-width:1024px)">
 <script src="site-data.js?v=salon-20261003-v1"></script>
 <script src="site-regions.js?v=salon-final-20260928-v2"></script>
-<script src="site-services.js?v=salon-eva-rules-v2"></script>
+<script src="site-services.js?v=victoria-service-layout-v1"></script>
 <script>
 (()=>{
  const site=window.TANEM_SITE_DATA;
@@ -73,7 +73,7 @@ html.br-booting #salon-mobile,html.br-booting #salon-desktop-v1{visibility:hidde
   const palettePreload=document.createElement('link');
   palettePreload.rel='preload';
   palettePreload.as='style';
-  palettePreload.href='salon-palette.css?v=salon-factory-v1';
+  palettePreload.href='salon-palette.css?v=victoria-service-layout-v1';
   document.head.appendChild(palettePreload);
   document.head.appendChild(preload);
  }
@@ -151,7 +151,7 @@ html.br-booting #salon-mobile,html.br-booting #salon-desktop-v1{visibility:hidde
    }else ready();
  }
  const script=document.createElement('script');
- script.src=desktop?'desktop.js?v=salon-eva-rules-v2':'mobile.js?v=salon-eva-rules-v2';
+ script.src=desktop?'desktop.js?v=salon-eva-rules-v2':'mobile.js?v=victoria-service-layout-v1';
  script.async=false;script.onload=()=>{
    const runtime=document.createElement('script');
    runtime.src='site-runtime.js?v=salon-eva-rules-v2';
