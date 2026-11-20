@@ -33,6 +33,10 @@ def check(browser, width, height, mobile, language):
     page.goto(HOST, wait_until="domcontentloaded", timeout=30000)
     data = page.evaluate("window.TANEM_SITE_DATA")
     assert data and data["mode"] == "production", "Site did not load production data"
+    # A country-specific site exposes only the locales selected in site-data.js.
+    if language not in data.get("locales", []):
+        context.close()
+        return
     desktop = (width >= 1024) or not mobile
     root = "#salon-desktop-v1" if desktop else "#salon-mobile"
     page.locator(root).wait_for(state="visible", timeout=18000)
